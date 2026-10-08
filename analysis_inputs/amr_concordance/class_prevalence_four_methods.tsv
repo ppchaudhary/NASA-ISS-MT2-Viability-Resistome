@@ -1,0 +1,81 @@
+Method	STATUS	Class	Detected_samples	Total_samples	Prevalence
+DeepARG	PMA	Aminoglycoside	28	32	0.875
+DeepARG	PMA	Beta-lactam	31	32	0.96875
+DeepARG	PMA	Fosfomycin	12	32	0.375
+DeepARG	PMA	Fusidic acid	2	32	0.0625
+DeepARG	PMA	Glycopeptide	17	32	0.53125
+DeepARG	PMA	Phenicol	13	32	0.40625
+DeepARG	PMA	Tetracycline	31	32	0.96875
+DeepARG	PMA	Diaminopyrimidine	25	32	0.78125
+DeepARG	PMA	Rifamycin	19	32	0.59375
+DeepARG	PMA	Sulfonamide	9	32	0.28125
+DeepARG	non-PMA	Aminoglycoside	32	32	1.0
+DeepARG	non-PMA	Beta-lactam	32	32	1.0
+DeepARG	non-PMA	Fosfomycin	31	32	0.96875
+DeepARG	non-PMA	Fusidic acid	28	32	0.875
+DeepARG	non-PMA	Glycopeptide	31	32	0.96875
+DeepARG	non-PMA	Phenicol	32	32	1.0
+DeepARG	non-PMA	Tetracycline	32	32	1.0
+DeepARG	non-PMA	Diaminopyrimidine	32	32	1.0
+DeepARG	non-PMA	Rifamycin	29	32	0.90625
+DeepARG	non-PMA	Sulfonamide	16	32	0.5
+ShortBRED	PMA	Aminoglycoside	23	32	0.71875
+ShortBRED	PMA	Beta-lactam	20	32	0.625
+ShortBRED	PMA	Fosfomycin	1	32	0.03125
+ShortBRED	PMA	Fusidic acid	4	32	0.125
+ShortBRED	PMA	Glycopeptide	3	32	0.09375
+ShortBRED	PMA	Phenicol	15	32	0.46875
+ShortBRED	PMA	Tetracycline	25	32	0.78125
+ShortBRED	PMA	Diaminopyrimidine	21	32	0.65625
+ShortBRED	PMA	Rifamycin	4	32	0.125
+ShortBRED	PMA	Sulfonamide	8	32	0.25
+ShortBRED	non-PMA	Aminoglycoside	31	32	0.96875
+ShortBRED	non-PMA	Beta-lactam	31	32	0.96875
+ShortBRED	non-PMA	Fosfomycin	15	32	0.46875
+ShortBRED	non-PMA	Fusidic acid	29	32	0.90625
+ShortBRED	non-PMA	Glycopeptide	7	32	0.21875
+ShortBRED	non-PMA	Phenicol	31	32	0.96875
+ShortBRED	non-PMA	Tetracycline	31	32	0.96875
+ShortBRED	non-PMA	Diaminopyrimidine	32	32	1.0
+ShortBRED	non-PMA	Rifamycin	22	32	0.6875
+ShortBRED	non-PMA	Sulfonamide	16	32	0.5
+RGI	PMA	Aminoglycoside	31	32	0.96875
+RGI	PMA	Beta-lactam	32	32	1.0
+RGI	PMA	Fosfomycin	10	32	0.3125
+RGI	PMA	Fusidic acid	10	32	0.3125
+RGI	PMA	Glycopeptide	10	32	0.3125
+RGI	PMA	Phenicol	31	32	0.96875
+RGI	PMA	Tetracycline	31	32	0.96875
+RGI	PMA	Diaminopyrimidine	30	32	0.9375
+RGI	PMA	Rifamycin	31	32	0.96875
+RGI	PMA	Sulfonamide	16	32	0.5
+RGI	non-PMA	Aminoglycoside	32	32	1.0
+RGI	non-PMA	Beta-lactam	32	32	1.0
+RGI	non-PMA	Fosfomycin	26	32	0.8125
+RGI	non-PMA	Fusidic acid	32	32	1.0
+RGI	non-PMA	Glycopeptide	26	32	0.8125
+RGI	non-PMA	Phenicol	32	32	1.0
+RGI	non-PMA	Tetracycline	32	32	1.0
+RGI	non-PMA	Diaminopyrimidine	32	32	1.0
+RGI	non-PMA	Rifamycin	32	32	1.0
+RGI	non-PMA	Sulfonamide	24	32	0.75
+AMRFinderPlus	PMA	Aminoglycoside	1	32	0.03125
+AMRFinderPlus	PMA	Beta-lactam	6	32	0.1875
+AMRFinderPlus	PMA	Fosfomycin	2	32	0.0625
+AMRFinderPlus	PMA	Fusidic acid	3	32	0.09375
+AMRFinderPlus	PMA	Glycopeptide	0	32	0.0
+AMRFinderPlus	PMA	Phenicol	0	32	0.0
+AMRFinderPlus	PMA	Tetracycline	1	32	0.03125
+AMRFinderPlus	PMA	Diaminopyrimidine	0	32	0.0
+AMRFinderPlus	PMA	Rifamycin	0	32	0.0
+AMRFinderPlus	PMA	Sulfonamide	0	32	0.0
+AMRFinderPlus	non-PMA	Aminoglycoside	20	32	0.625
+AMRFinderPlus	non-PMA	Beta-lactam	30	32	0.9375
+AMRFinderPlus	non-PMA	Fosfomycin	29	32	0.90625
+AMRFinderPlus	non-PMA	Fusidic acid	14	32	0.4375
+AMRFinderPlus	non-PMA	Glycopeptide	1	32	0.03125
+AMRFinderPlus	non-PMA	Phenicol	17	32	0.53125
+AMRFinderPlus	non-PMA	Tetracycline	28	32	0.875
+AMRFinderPlus	non-PMA	Diaminopyrimidine	6	32	0.1875
+AMRFinderPlus	non-PMA	Rifamycin	0	32	0.0
+AMRFinderPlus	non-PMA	Sulfonamide	0	32	0.0

@@ -1,0 +1,11 @@
+STATUS	Element symbol	Taxon_name	Samples	Contigs	Prevalence
+PMA	erm(X)	Actinomycetes	5	5	0.15625
+PMA	blaZ	Staphylococcus	4	4	0.125
+PMA	qacC	Staphylococcus	4	4	0.125
+PMA	msr(A)	Staphylococcus	3	3	0.09375
+PMA	blaI	Bacillales	2	2	0.0625
+PMA	blaI	Staphylococcus	2	2	0.0625
+PMA	fosB	Staphylococcus epidermidis	2	2	0.0625
+PMA	fusB	Staphylococcus	2	2	0.0625
+PMA	mph(C)	Staphylococcus	2	2	0.0625
+PMA	qacA	Staphylococcus	2	2	0.0625

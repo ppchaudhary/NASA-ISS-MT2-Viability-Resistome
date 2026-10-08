@@ -1,0 +1,15 @@
+STATUS	Taxon_plot	ARG_contigs	Total_ARG_contigs	Proportion
+PMA	Staphylococcus	19	43	0.441860465116279
+PMA	Other assignments	11	43	0.255813953488372
+PMA	Actinomycetes	5	43	0.116279069767442
+PMA	Bacteria	5	43	0.116279069767442
+PMA	Staphylococcus epidermidis	2	43	0.0465116279069767
+PMA	Staphylococcaceae	1	43	0.0232558139534884
+non-PMA	Staphylococcus	197	656	0.30030487804878
+non-PMA	Other assignments	156	656	0.23780487804878
+non-PMA	Bacteria	135	656	0.205792682926829
+non-PMA	Staphylococcus epidermidis	72	656	0.109756097560976
+non-PMA	Staphylococcaceae	34	656	0.0518292682926829
+non-PMA	Actinomycetes	30	656	0.0457317073170732
+non-PMA	Corynebacterium	16	656	0.024390243902439
+non-PMA	Streptococcus	16	656	0.024390243902439

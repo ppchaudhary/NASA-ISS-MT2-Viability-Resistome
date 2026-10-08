@@ -1,0 +1,5 @@
+Analysis	Estimate	P_value
+Original microbiome-resistome Spearman	0.510630498533724	0.00282477170582932
+Microbiome distance vs depth imbalance	0.031524926686217	0.864004269612445
+Resistome distance vs depth imbalance	0.310117302052786	0.0841012913986026
+Partial rank correlation controlling depth	0.527089549080313	0.00193772919224611

@@ -1,0 +1,8 @@
+ARG	DeepARG_PMA_prevalence	ShortBRED_PMA_prevalence	RGI_PMA_prevalence	AMRFinder_PMA_samples	AMRFinder_nonPMA_samples	AMRFinder_PMA_prevalence	DeepARG_recurrent	ShortBRED_recurrent	RGI_recurrent	AMRFinder_PMA_detected	Read_methods_recurrent	Four_method_support
+msrA	0.8125	0.625	0.875	4	30	0.125	True	True	True	True	3	4
+dfrC	0.75	0.5625	0.625	0	0	0.0	True	True	True	False	3	3
+rpoB2	0.96875	0.0	0.84375	0	0	0.0	True	False	True	False	2	2
+norA	0.84375	0.28125	0.75	0	0	0.0	True	False	True	False	2	2
+bacA	0.9375	0.0	0.0	0	0	0.0	True	False	False	False	1	1
+ugd	0.8125	0.03125	0.0625	0	0	0.0	True	False	False	False	1	1
+acrB	0.75	0.0	0.25	0	0	0.0	True	False	False	False	1	1

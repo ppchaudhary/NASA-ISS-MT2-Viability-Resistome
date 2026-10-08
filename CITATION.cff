@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this code or data."
+title: "NASA ISS MT-2 viability-informed microbiome and resistome analysis"
+type: software
+authors:
+  - family-names: Chaudhary
+    given-names: Prem Prashant
+repository-code: https://github.com/ppchaudhary/NASA-ISS-MT2-Viability-Resistome

@@ -1,0 +1,13 @@
+Permutation test for adonis under reduced model
+Marginal effects of terms
+Blocks:  meta$Pair_ID 
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = bray ~ STATUS, data = meta, permutations = perm_control, by = "margin")
+         Df SumOfSqs      R2      F Pr(>F)    
+STATUS    1   0.5004 0.02891 1.8459  1e-04 ***
+Residual 62  16.8084 0.97109                  
+Total    63  17.3089 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

@@ -1,0 +1,1189 @@
+ARO	Drug Class	Mapped_to_CARD_class
+ARO_3002523		False
+ARO_3002540		False
+ARO_3007401	aminoglycoside antibiotic	True
+ARO_3003562		False
+ARO_3000180	tetracycline antibiotic	True
+ARO_3000195	tetracycline antibiotic	True
+ARO_3003559	cephalosporin	True
+ARO_3002554		False
+ARO_3004451	phenicol antibiotic	True
+ARO_3003007	fluoroquinolone antibiotic; nucleoside antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3002672	phenicol antibiotic	True
+ARO_3002878	cephalosporin; penicillin beta-lactam	True
+ARO_3000495	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3000179	tetracycline antibiotic	True
+ARO_3000578		False
+ARO_3004454	phenicol antibiotic	True
+ARO_3000190	tetracycline antibiotic	True
+ARO_3002687	phenicol antibiotic	True
+ARO_3000368		False
+ARO_3000192	tetracycline antibiotic	True
+ARO_3002543		False
+ARO_3003105		False
+ARO_3004657		False
+ARO_3002595		False
+ARO_3002538	aminoglycoside antibiotic	True
+ARO_3002624		False
+ARO_3002642		False
+ARO_3002534	aminoglycoside antibiotic	True
+ARO_3002549		False
+ARO_3004457	phenicol antibiotic	True
+ARO_3002835	lincosamide antibiotic	True
+ARO_3002840		False
+ARO_3002542	aminoglycoside antibiotic	True
+ARO_3002649	aminoglycoside antibiotic	True
+ARO_3001304		False
+ARO_3003564		False
+ARO_3004652	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3003748	macrolide antibiotic	True
+ARO_3007127		False
+ARO_3002827	macrolide antibiotic; lincosamide antibiotic	True
+ARO_3004683	aminoglycoside antibiotic	True
+ARO_3000205	glycylcycline; tetracycline antibiotic	True
+ARO_3003036	macrolide antibiotic	True
+ARO_3002919	glycopeptide antibiotic	True
+ARO_3002931	glycopeptide antibiotic	True
+ARO_3002942		False
+ARO_3000010		False
+ARO_3002949	glycopeptide antibiotic	True
+ARO_3002955		False
+ARO_3002962		False
+ARO_3000173		False
+ARO_3002674	phenicol antibiotic	True
+ARO_3000378		False
+ARO_3002654	aminoglycoside antibiotic	True
+ARO_3001407		False
+ARO_3002866	diaminopyrimidine antibiotic	True
+ARO_3002841	streptogramin antibiotic; streptogramin A antibiotic	True
+ARO_3002558	aminoglycoside antibiotic	True
+ARO_3002597	aminoglycoside antibiotic	True
+ARO_3002541		False
+ARO_3004699	nucleoside antibiotic	True
+ARO_3000498	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3004635		False
+ARO_3007075		False
+ARO_3002623	aminoglycoside antibiotic	True
+ARO_3000595	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3000250	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3002545		False
+ARO_3001307		False
+ARO_3001404	penicillin beta-lactam	True
+ARO_3000596	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3003250	peptide antibiotic	True
+ARO_3002987	peptide antibiotic	True
+ARO_3002988	peptide antibiotic	True
+ARO_3003060	peptide antibiotic	True
+ARO_3002921		False
+ARO_3002932	glycopeptide antibiotic	True
+ARO_3002956	glycopeptide antibiotic	True
+ARO_3002964		False
+ARO_3002943		False
+ARO_3002950		False
+ARO_3002651		False
+ARO_3004460	phenicol antibiotic	True
+ARO_3000178	tetracycline antibiotic	True
+ARO_3002700		False
+ARO_3002884	rifamycin antibiotic	True
+ARO_3002526	aminoglycoside antibiotic	True
+ARO_3000800	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3000801	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3000802	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3002636		False
+ARO_3002686	phenicol antibiotic	True
+ARO_3002824		False
+ARO_3002671	phenicol antibiotic	True
+ARO_3002897	nucleoside antibiotic	True
+ARO_3003009	fluoroquinolone antibiotic; aminoglycoside antibiotic	True
+ARO_3003010	fluoroquinolone antibiotic; aminoglycoside antibiotic	True
+ARO_3002662	aminoglycoside antibiotic	True
+ARO_3001413		False
+ARO_3005099	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3002556		False
+ARO_3007050	macrolide antibiotic	True
+ARO_3002663	aminoglycoside antibiotic	True
+ARO_3004784	penicillin beta-lactam	True
+ARO_3000181	tetracycline antibiotic	True
+ARO_3000118	streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3002846	rifamycin antibiotic	True
+ARO_3002481	penicillin beta-lactam	True
+ARO_3005069	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3002660	aminoglycoside antibiotic	True
+ARO_3002650	aminoglycoside antibiotic	True
+ARO_3002823	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3002817	macrolide antibiotic	True
+ARO_3000593	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3003006	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3000522	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3002557	aminoglycoside antibiotic	True
+ARO_3003967	fluoroquinolone antibiotic	True
+ARO_3003037	fluoroquinolone antibiotic; aminoglycoside antibiotic	True
+ARO_3005010	disinfecting agents and antiseptics	True
+ARO_3002524	aminoglycoside antibiotic	True
+ARO_3003049		False
+ARO_3003048		False
+ARO_3001308	streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3002842		False
+ARO_3000230	aminoglycoside antibiotic	True
+ARO_3000598	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3001265		False
+ARO_3000182		False
+ARO_3000216	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003841	aminoglycoside antibiotic	True
+ARO_3003950	nitroimidazole antibiotic	True
+ARO_3001216	fluoroquinolone antibiotic	True
+ARO_3003577	peptide antibiotic	True
+ARO_3000792	aminocoumarin antibiotic	True
+ARO_3000793	aminocoumarin antibiotic	True
+ARO_3000794	aminocoumarin antibiotic	True
+ARO_3003952	peptide antibiotic	True
+ARO_3003578	peptide antibiotic	True
+ARO_3000833	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam; tetracycline antibiotic	True
+ARO_3000516	fluoroquinolone antibiotic	True
+ARO_3000074	fluoroquinolone antibiotic	True
+ARO_3002986	peptide antibiotic	True
+ARO_3000656	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3000499	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3000502	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3000796	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	True
+ARO_3004290	cephalosporin; penicillin beta-lactam	True
+ARO_3001214	fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3002826		False
+ARO_3002867	diaminopyrimidine antibiotic	True
+ARO_3002561	aminoglycoside antibiotic	True
+ARO_3002565		False
+ARO_3002566	aminoglycoside antibiotic	True
+ARO_3002892	tetracycline antibiotic	True
+ARO_3003964		False
+ARO_3000561		False
+ARO_3001299		False
+ARO_3000177	tetracycline antibiotic	True
+ARO_3002970		False
+ARO_3000183		False
+ARO_3000174		False
+ARO_3003202		False
+ARO_3000816	macrolide antibiotic	True
+ARO_3002596		False
+ARO_3003051	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3003052	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3003053	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3003067	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3003066	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	True
+ARO_3000193	tetracycline antibiotic	True
+ARO_3002569		False
+ARO_3000849		False
+ARO_3002945		False
+ARO_3002908		False
+ARO_3002952	glycopeptide antibiotic	True
+ARO_3002958		False
+ARO_3002963	glycopeptide antibiotic	True
+ARO_3003961	antibacterial free fatty acids	True
+ARO_3003962	antibacterial free fatty acids	True
+ARO_3000811	macrolide antibiotic	True
+ARO_3000810	macrolide antibiotic	True
+ARO_3004751	penicillin beta-lactam	True
+ARO_3002966	glycopeptide antibiotic	True
+ARO_3002244		False
+ARO_3003744		False
+ARO_3002522	aminocoumarin antibiotic	True
+ARO_3004659	macrolide antibiotic; lincosamide antibiotic	True
+ARO_3000375	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3002844		False
+ARO_3002922	glycopeptide antibiotic	True
+ARO_3002933		False
+ARO_3001816		False
+ARO_3004289		False
+ARO_3004364	peptide antibiotic	True
+ARO_3002703	phenicol antibiotic	True
+ARO_3003679	disinfecting agents and antiseptics	True
+ARO_3003680	disinfecting agents and antiseptics	True
+ARO_3003681	disinfecting agents and antiseptics	True
+ARO_3000377		False
+ARO_3000379	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3000149	phosphonic acid antibiotic	True
+ARO_3004077	fluoroquinolone antibiotic; aminoglycoside antibiotic; disinfecting agents and antiseptics	True
+ARO_3005067	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3005068	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3004107	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3000803	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3000804	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3000805	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3004072	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	True
+ARO_3004075	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	True
+ARO_3004074	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	True
+ARO_3004073	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	True
+ARO_3005063	peptide antibiotic	True
+ARO_3005064	peptide antibiotic	True
+ARO_3002985	peptide antibiotic	True
+ARO_3003693	macrolide antibiotic; tetracycline antibiotic	True
+ARO_3003692	macrolide antibiotic; tetracycline antibiotic	True
+ARO_3004056		False
+ARO_3000806		False
+ARO_3000807	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3000808	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3000809	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3003030	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003031	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003682	disinfecting agents and antiseptics	True
+ARO_3004038	aminoglycoside antibiotic	True
+ARO_3004680		False
+ARO_3002528	aminoglycoside antibiotic	True
+ARO_3002705	phenicol antibiotic	True
+ARO_3002260	carbapenem	True
+ARO_3002380		False
+ARO_3001431		False
+ARO_3004740	cephalosporin; penicillin beta-lactam	True
+ARO_3002819	macrolide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3000604	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3005008		False
+ARO_3000481	tetracycline antibiotic	True
+ARO_3000840	carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3001425		False
+ARO_3003014		False
+ARO_3002635	aminoglycoside antibiotic	True
+ARO_3004629	aminoglycoside antibiotic	True
+ARO_3003561		False
+ARO_3004568		False
+ARO_3000025	fluoroquinolone antibiotic	True
+ARO_3000024	fluoroquinolone antibiotic	True
+ARO_3002843	streptogramin antibiotic; streptogramin A antibiotic	True
+ARO_3000167	tetracycline antibiotic	True
+ARO_3000822	fluoroquinolone antibiotic	True
+ARO_3000614	macrolide antibiotic	True
+ARO_3004669		False
+ARO_3003206		False
+ARO_3003552	fusidane antibiotic	True
+ARO_3000774	glycylcycline; tetracycline antibiotic	True
+ARO_3000775	glycylcycline; tetracycline antibiotic	True
+ARO_3000791	monobactam; carbapenem; cephalosporin; penicillin beta-lactam; phenicol antibiotic	True
+ARO_3000790	monobactam; carbapenem; cephalosporin; penicillin beta-lactam; phenicol antibiotic	True
+ARO_3000789		False
+ARO_3000504	monobactam; carbapenem; cephalosporin; penicillin beta-lactam; phenicol antibiotic	True
+ARO_3000826	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3008200		False
+ARO_3002907	glycopeptide antibiotic	True
+ARO_3002967		False
+ARO_3002971		False
+ARO_3002924	glycopeptide antibiotic	True
+ARO_3002935		False
+ARO_3002598		False
+ARO_3004766	penicillin beta-lactam	True
+ARO_3000412	sulfonamide antibiotic	True
+ARO_3002681		False
+ARO_3000605	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3000616	macrolide antibiotic; streptogramin antibiotic	True
+ARO_3000168	tetracycline antibiotic	True
+ARO_3002600		False
+ARO_3004773	penicillin beta-lactam	True
+ARO_3004782		False
+ARO_3000005	glycopeptide antibiotic	True
+ARO_3002944	glycopeptide antibiotic	True
+ARO_3002923	glycopeptide antibiotic	True
+ARO_3003070	glycopeptide antibiotic	True
+ARO_3002957		False
+ARO_3004780		False
+ARO_3001887		False
+ARO_3002625		False
+ARO_3002695		False
+ARO_3002594		False
+ARO_3003774	peptide antibiotic	True
+ARO_3000165	tetracycline antibiotic	True
+ARO_3004294		False
+ARO_3002871	tetracycline antibiotic	True
+ARO_3003785		False
+ARO_3000842		False
+ARO_3003772		False
+ARO_3002604		False
+ARO_3000843		False
+ARO_3000844	carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3004642		False
+ARO_3000601	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3002865	diaminopyrimidine antibiotic	True
+ARO_3000300	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic; pleuromutilin antibiotic	True
+ARO_3004254		False
+ARO_3003905		False
+ARO_3000172		False
+ARO_3002675		False
+ARO_3002248		False
+ARO_3005045		False
+ARO_3005100	phosphonic acid antibiotic	True
+ARO_3001671	carbapenem; penicillin beta-lactam	True
+ARO_3003922	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic	True
+ARO_3003923	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic	True
+ARO_3002588		False
+ARO_3001780	penicillin beta-lactam	True
+ARO_3000600		False
+ARO_3002854		False
+ARO_3004123	monobactam; carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3000569		False
+ARO_3005111	cephalosporin; penicillin beta-lactam	True
+ARO_3001808	carbapenem; penicillin beta-lactam	True
+ARO_3004452		False
+ARO_3001813		False
+ARO_3000090	penicillin beta-lactam	True
+ARO_3002529		False
+ARO_3001792		False
+ARO_3002925	glycopeptide antibiotic	True
+ARO_3002936		False
+ARO_3000602		False
+ARO_3002894	tetracycline antibiotic	True
+ARO_3003839	macrolide antibiotic	True
+ARO_3002372		False
+ARO_3000391	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3004606	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3001302		False
+ARO_3003556	cephalosporin; penicillin beta-lactam	True
+ARO_3003557		False
+ARO_3002628	aminoglycoside antibiotic	True
+ARO_3000594	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3000026	glycylcycline; tetracycline antibiotic	True
+ARO_3000565	tetracycline antibiotic	True
+ARO_3000533	macrolide antibiotic	True
+ARO_3000535	macrolide antibiotic	True
+ARO_3004191	aminoglycoside antibiotic	True
+ARO_3004572	macrolide antibiotic; aminoglycoside antibiotic; oxazolidinone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3000566	tetracycline antibiotic	True
+ARO_3004808		False
+ARO_3000781	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3000782	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3002634	aminoglycoside antibiotic	True
+ARO_3003558		False
+ARO_3002837	lincosamide antibiotic	True
+ARO_3002385		False
+ARO_3002711		False
+ARO_3005098	disinfecting agents and antiseptics	True
+ARO_3001859		False
+ARO_3000462	macrolide antibiotic	True
+ARO_3000866		False
+ARO_3000865		False
+ARO_3005035	cephalosporin; penicillin beta-lactam	True
+ARO_3004253		False
+ARO_3002926	glycopeptide antibiotic	True
+ARO_3002937		False
+ARO_3002959		False
+ARO_3002965	glycopeptide antibiotic	True
+ARO_3002909	glycopeptide antibiotic	True
+ARO_3003069		False
+ARO_3002972	glycopeptide antibiotic	True
+ARO_3004291		False
+ARO_3002539		False
+ARO_3002861	diaminopyrimidine antibiotic	True
+ARO_3002640		False
+ARO_3000839	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3003969	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; tetracycline antibiotic	True
+ARO_3007122	tetracycline antibiotic	True
+ARO_3005052	peptide antibiotic	True
+ARO_3002609		False
+ARO_3004042	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003773		False
+ARO_3002860		False
+ARO_3002830	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3003741	macrolide antibiotic	True
+ARO_3002639	aminoglycoside antibiotic	True
+ARO_3004856		False
+ARO_3001918		False
+ARO_3004573	phosphonic acid antibiotic	True
+ARO_3004645	diaminopyrimidine antibiotic	True
+ARO_3008509	penicillin beta-lactam	True
+ARO_3000215	penicillin beta-lactam	True
+ARO_3002586		False
+ARO_3002838		False
+ARO_3000841	carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3000784		False
+ARO_3000783	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidane antibiotic	True
+ARO_3000217	penicillin beta-lactam	True
+ARO_3004749	penicillin beta-lactam	True
+ARO_3001329	phosphonic acid antibiotic	True
+ARO_3002849	rifamycin antibiotic	True
+ARO_3002850		False
+ARO_3004759	penicillin beta-lactam	True
+ARO_3004826		False
+ARO_3004450		False
+ARO_3000603		False
+ARO_3001767		False
+ARO_3002613	aminoglycoside antibiotic	True
+ARO_3002881		False
+ARO_3000621	penicillin beta-lactam	True
+ARO_3002910		False
+ARO_3002968		False
+ARO_3002973		False
+ARO_3002974		False
+ARO_3002927	glycopeptide antibiotic	True
+ARO_3002938		False
+ARO_3004498		False
+ARO_3002667		False
+ARO_3003109	macrolide antibiotic; streptogramin antibiotic	True
+ARO_3002799		False
+ARO_3002804	phosphonic acid antibiotic	True
+ARO_3000572	tetracycline antibiotic	True
+ARO_3004550		False
+ARO_3002848		False
+ARO_3002366		False
+ARO_3002616	aminoglycoside antibiotic	True
+ARO_3002482		False
+ARO_3002485		False
+ARO_3002510	cephalosporin; penicillin beta-lactam	True
+ARO_3002487	cephalosporin; penicillin beta-lactam	True
+ARO_3002511		False
+ARO_3002484		False
+ARO_3002512		False
+ARO_3002492		False
+ARO_3002486	cephalosporin; penicillin beta-lactam	True
+ARO_3002489	cephalosporin; penicillin beta-lactam	True
+ARO_3002483		False
+ARO_3002513	cephalosporin; penicillin beta-lactam	True
+ARO_3000196	tetracycline antibiotic	True
+ARO_3002575	aminoglycoside antibiotic	True
+ARO_3004574	fluoroquinolone antibiotic	True
+ARO_3000780	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3002612		False
+ARO_3000768	macrolide antibiotic; aminocoumarin antibiotic	True
+ARO_3000413		False
+ARO_3003107		False
+ARO_3009023		False
+ARO_3002787		False
+ARO_3003110		False
+ARO_3003725		False
+ARO_3002928		False
+ARO_3002939		False
+ARO_3002961		False
+ARO_3002947		False
+ARO_3002911		False
+ARO_3002953		False
+ARO_3002934	glycopeptide antibiotic	True
+ARO_3000237	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3001804		False
+ARO_3004577	macrolide antibiotic; disinfecting agents and antiseptics	True
+ARO_3003022		False
+ARO_3002188		False
+ARO_3004601	lincosamide antibiotic	True
+ARO_3000573	tetracycline antibiotic	True
+ARO_3000846		False
+ARO_3003097	cephalosporin	True
+ARO_3002999	cephalosporin	True
+ARO_3004539	macrolide antibiotic	True
+ARO_3003907	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	True
+ARO_3001654	carbapenem; penicillin beta-lactam	True
+ARO_3002832		False
+ARO_3002845	streptogramin antibiotic; streptogramin A antibiotic	True
+ARO_3004678	aminoglycoside antibiotic	True
+ARO_3004801	penicillin beta-lactam	True
+ARO_3004556		False
+ARO_3004753		False
+ARO_3000858		False
+ARO_3007369		False
+ARO_3002858	diaminopyrimidine antibiotic	True
+ARO_3002801		False
+ARO_3004666		False
+ARO_3002267		False
+ARO_3001662		False
+ARO_3000553	glycylcycline; tetracycline antibiotic	True
+ARO_3000549	glycylcycline; tetracycline antibiotic	True
+ARO_3003953	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3003730	mupirocin-like antibiotic	True
+ARO_3002646	aminoglycoside antibiotic	True
+ARO_3001805		False
+ARO_3000245	rifamycin antibiotic	True
+ARO_3002873	phosphonic acid antibiotic	True
+ARO_3005091		False
+ARO_3005090		False
+ARO_3004641	aminoglycoside antibiotic	True
+ARO_3003112	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic	True
+ARO_3002795		False
+ARO_3002872	phosphonic acid antibiotic	True
+ARO_3002218		False
+ARO_3000410	sulfonamide antibiotic	True
+ARO_3002756		False
+ARO_3001970		False
+ARO_3003196		False
+ARO_3001809	penicillin beta-lactam	True
+ARO_3004651	lincosamide antibiotic	True
+ARO_3002912		False
+ARO_3002969	glycopeptide antibiotic	True
+ARO_3002975		False
+ARO_3002929	glycopeptide antibiotic	True
+ARO_3002940		False
+ARO_3004032	tetracycline antibiotic	True
+ARO_3004033	tetracycline antibiotic	True
+ARO_3001777	penicillin beta-lactam	True
+ARO_3007019	phenicol antibiotic	True
+ARO_3001714		False
+ARO_3003583	peptide antibiotic	True
+ARO_3000510		False
+ARO_3000448		False
+ARO_3001328	tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3004777		False
+ARO_3002666		False
+ARO_3007370		False
+ARO_3000823	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3001313	elfamycin antibiotic	True
+ARO_3001692		False
+ARO_3004658	phenicol antibiotic	True
+ARO_3001476		False
+ARO_3002883	rifamycin antibiotic	True
+ARO_3002226		False
+ARO_3002228		False
+ARO_3001797		False
+ARO_3001610		False
+ARO_3002676		False
+ARO_3004786	carbapenem; cephalosporin	True
+ARO_3002853		False
+ARO_3002307		False
+ARO_3000617	penicillin beta-lactam	True
+ARO_3000848		False
+ARO_3001778		False
+ARO_3002668		False
+ARO_3003198		False
+ARO_3001205		False
+ARO_3003749	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3007010	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3003762	lincosamide antibiotic	True
+ARO_3003894		False
+ARO_3002669	aminoglycoside antibiotic	True
+ARO_3002647	aminoglycoside antibiotic	True
+ARO_3000559	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	True
+ARO_3001517		False
+ARO_3002631	aminoglycoside antibiotic	True
+ARO_3002814	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	True
+ARO_3002948	glycopeptide antibiotic	True
+ARO_3002913	glycopeptide antibiotic	True
+ARO_3002954		False
+ARO_3002941	glycopeptide antibiotic	True
+ARO_3002930	glycopeptide antibiotic	True
+ARO_3004542	macrolide antibiotic	True
+ARO_3002626	aminoglycoside antibiotic	True
+ARO_3004648		False
+ARO_3003011		False
+ARO_3000013		False
+ARO_3004063		False
+ARO_3008193	penicillin beta-lactam	True
+ARO_3003186	penicillin beta-lactam	True
+ARO_3002863		False
+ARO_3002789		False
+ARO_3000444	rifamycin antibiotic	True
+ARO_3000861	aminoglycoside antibiotic	True
+ARO_3005059	carbapenem; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic	True
+ARO_3007650		False
+ARO_3003208		False
+ARO_3005039		False
+ARO_3002191	cephalosporin; penicillin beta-lactam	True
+ARO_3001558		False
+ARO_3000579		False
+ARO_3007112		False
+ARO_3002146		False
+ARO_3002239		False
+ARO_3001600		False
+ARO_3001301	macrolide antibiotic; lincosamide antibiotic	True
+ARO_3003209		False
+ARO_3004541	macrolide antibiotic	True
+ARO_3004596	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3004795	penicillin beta-lactam	True
+ARO_3005006		False
+ARO_3007637	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; nucleoside antibiotic	True
+ARO_3003716	carbapenem	True
+ARO_3003718		False
+ARO_3003719		False
+ARO_3003670	carbapenem	True
+ARO_3003714	carbapenem	True
+ARO_3003715	carbapenem	True
+ARO_3003720		False
+ARO_3003717	carbapenem	True
+ARO_3003746	oxazolidinone antibiotic; phenicol antibiotic	True
+ARO_3007645	lincosamide antibiotic; antibiotic without defined classification; pleuromutilin antibiotic	True
+ARO_3004757		False
+ARO_3003603		False
+ARO_3002578	aminoglycoside antibiotic	True
+ARO_3004608	macrolide antibiotic	True
+ARO_3009040	cephalosporin	True
+ARO_3004613		False
+ARO_3004581		False
+ARO_3004582		False
+ARO_3004584		False
+ARO_3004586		False
+ARO_3004587	tetracycline antibiotic	True
+ARO_3004589		False
+ARO_3004590		False
+ARO_3004591		False
+ARO_3001462		False
+ARO_3004797	penicillin beta-lactam	True
+ARO_3004764		False
+ARO_3000620	fluoroquinolone antibiotic; tetracycline antibiotic	True
+ARO_3007180	cephalosporin; penicillin beta-lactam	True
+ARO_3003713	monobactam; carbapenem; penicillin beta-lactam	True
+ARO_3003801	bicyclomycin-like antibiotic	True
+ARO_3003811	glycylcycline; tetracycline antibiotic	True
+ARO_3007669	macrolide antibiotic; tetracycline antibiotic; disinfecting agents and antiseptics	True
+ARO_3001327	fluoroquinolone antibiotic	True
+ARO_3004441		False
+ARO_3003767		False
+ARO_3004092		False
+ARO_3000856	carbapenem	True
+ARO_3003838	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	True
+ARO_3003620	penicillin beta-lactam	True
+ARO_3007859		False
+ARO_3004035	tetracycline antibiotic	True
+ARO_3004036	tetracycline antibiotic	True
+ARO_3003908		False
+ARO_3003980		False
+ARO_3003981	tetracycline antibiotic	True
+ARO_3003982		False
+ARO_3003983		False
+ARO_3003984	peptide antibiotic	True
+ARO_3003986		False
+ARO_3003987	streptogramin antibiotic; streptogramin A antibiotic	True
+ARO_3003988		False
+ARO_3003992	rifamycin antibiotic	True
+ARO_3003989		False
+ARO_3003994		False
+ARO_3003990		False
+ARO_3003991	macrolide antibiotic	True
+ARO_3007209	rifamycin antibiotic	True
+ARO_3007846	carbapenem; cephalosporin	True
+ARO_3005150		False
+ARO_3004085	lincosamide antibiotic	True
+ARO_3004734		False
+ARO_3004861		False
+ARO_3004637		False
+ARO_3004185	penicillin beta-lactam	True
+ARO_3004603		False
+ARO_3003115		False
+ARO_3003731	fusidane antibiotic	True
+ARO_3005164		False
+ARO_3004332	peptide antibiotic	True
+ARO_3004501		False
+ARO_3000838	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3004544	macrolide antibiotic	True
+ARO_3004357		False
+ARO_3004688		False
+ARO_3004517		False
+ARO_3009042		False
+ARO_3009041		False
+ARO_3004444		False
+ARO_3008457	penicillin beta-lactam	True
+ARO_3004470	tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic	True
+ARO_3004694		False
+ARO_3004663	fusidane antibiotic	True
+ARO_3004516		False
+ARO_3004693		False
+ARO_3005096		False
+ARO_3004571		False
+ARO_3007113		False
+ARO_3002459		False
+ARO_3005121	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3005021	lincosamide antibiotic; streptogramin antibiotic; oxazolidinone antibiotic; glycopeptide antibiotic; phenicol antibiotic	True
+ARO_3005018		False
+ARO_3002882	lincosamide antibiotic	True
+ARO_3001306	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3001300	macrolide antibiotic; lincosamide antibiotic	True
+ARO_3002689	phenicol antibiotic	True
+ARO_3000316	macrolide antibiotic	True
+ARO_3002893	tetracycline antibiotic	True
+ARO_3007972		False
+ARO_3000206	tetracycline antibiotic	True
+ARO_3000254	tetracycline antibiotic	True
+ARO_3000318		False
+ARO_3004667	fluoroquinolone antibiotic	True
+ARO_3000263	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3000491	aminoglycoside antibiotic	True
+ARO_3000027	fluoroquinolone antibiotic	True
+ARO_3002493		False
+ARO_3000423		False
+ARO_3000449	phosphonic acid antibiotic	True
+ARO_3003034	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003033	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3000319	macrolide antibiotic	True
+ARO_3002544		False
+ARO_3002825	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3000676	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic	True
+ARO_3000832	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam; tetracycline antibiotic	True
+ARO_3000830	aminoglycoside antibiotic; aminocoumarin antibiotic	True
+ARO_3000124	penicillin beta-lactam	True
+ARO_3000815	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; moenomycin antibiotic; disinfecting agents and antiseptics	True
+ARO_3007013	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3000746	glycylcycline; tetracycline antibiotic	True
+ARO_3002202		False
+ARO_3007644	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3000186	tetracycline antibiotic	True
+ARO_3003551	disinfecting agents and antiseptics	True
+ARO_3000859		False
+ARO_3000166	tetracycline antibiotic	True
+ARO_3002607		False
+ARO_3002563	aminoglycoside antibiotic	True
+ARO_3002593	aminoglycoside antibiotic	True
+ARO_3002572		False
+ARO_3002573		False
+ARO_3007210	rifamycin antibiotic	True
+ARO_3000501	rifamycin antibiotic	True
+ARO_3002816		False
+ARO_3000753	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3002895		False
+ARO_3003704	phenicol antibiotic	True
+ARO_3003705	phenicol antibiotic	True
+ARO_3003698	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003699	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3003700	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3002868	diaminopyrimidine antibiotic	True
+ARO_3000508	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	True
+ARO_3000795	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	True
+ARO_3000518	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	True
+ARO_3003550	nucleoside antibiotic; disinfecting agents and antiseptics	True
+ARO_3003549	nucleoside antibiotic; disinfecting agents and antiseptics	True
+ARO_3003548	nucleoside antibiotic; disinfecting agents and antiseptics	True
+ARO_3003576	peptide antibiotic	True
+ARO_3003724		False
+ARO_3003728	glycopeptide antibiotic	True
+ARO_3003727		False
+ARO_3005036		False
+ARO_3002665		False
+ARO_3000847		False
+ARO_3004674	phosphonic acid antibiotic	True
+ARO_3003920	peptide antibiotic	True
+ARO_3003954		False
+ARO_3002815		False
+ARO_3004580	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics	True
+ARO_3004583	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics	True
+ARO_3002574		False
+ARO_3003440	penicillin beta-lactam	True
+ARO_3002263	carbapenem	True
+ARO_3003046	fluoroquinolone antibiotic	True
+ARO_3002874		False
+ARO_3002069		False
+ARO_3000854		False
+ARO_3004768	carbapenem; cephalosporin	True
+ARO_3003742	macrolide antibiotic	True
+ARO_3003745	macrolide antibiotic; tetracycline antibiotic	True
+ARO_3003039	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; tetracycline antibiotic	True
+ARO_3004628		False
+ARO_3003677		False
+ARO_3002233		False
+ARO_3004638		False
+ARO_3007199	carbapenem; cephalosporin	True
+ARO_3003199		False
+ARO_3000785		False
+ARO_3003207		False
+ARO_3002008		False
+ARO_3003200		False
+ARO_3005031		False
+ARO_3007204		False
+ARO_3007206	penicillin beta-lactam	True
+ARO_3008192	monobactam; carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3008571		False
+ARO_3007861		False
+ARO_3009032		False
+ARO_3000343	tetracycline antibiotic	True
+ARO_3004122	monobactam; carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3000194	tetracycline antibiotic	True
+ARO_3000463	macrolide antibiotic	True
+ARO_3002644	aminoglycoside antibiotic	True
+ARO_3002655		False
+ARO_3002659	aminoglycoside antibiotic	True
+ARO_3003061	peptide antibiotic	True
+ARO_3002630	aminoglycoside antibiotic	True
+ARO_3000347	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3002648	aminoglycoside antibiotic	True
+ARO_3002661		False
+ARO_3000363		False
+ARO_3002658		False
+ARO_3002652	aminoglycoside antibiotic	True
+ARO_3002685		False
+ARO_3002533		False
+ARO_3003563		False
+ARO_3000251	macrolide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3002891		False
+ARO_3002638	aminoglycoside antibiotic	True
+ARO_3003565	penicillin beta-lactam	True
+ARO_3002684	phenicol antibiotic	True
+ARO_3002553	aminoglycoside antibiotic	True
+ARO_3002536		False
+ARO_3002997		False
+ARO_3004548		False
+ARO_3001400		False
+ARO_3002690	phenicol antibiotic	True
+ARO_3001305	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3002828	macrolide antibiotic	True
+ARO_3004655		False
+ARO_3007104		False
+ARO_3002656		False
+ARO_3002688	phenicol antibiotic	True
+ARO_3000521	mupirocin-like antibiotic	True
+ARO_3007105		False
+ARO_3007106		False
+ARO_3003553		False
+ARO_3002645	aminoglycoside antibiotic	True
+ARO_3002012		False
+ARO_3000812	macrolide antibiotic	True
+ARO_3000592	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3002657	aminoglycoside antibiotic	True
+ARO_3003095	carbapenem	True
+ARO_3002157		False
+ARO_3000175	tetracycline antibiotic	True
+ARO_3003836	disinfecting agents and antiseptics	True
+ARO_3004039	macrolide antibiotic	True
+ARO_3002701		False
+ARO_3000191	tetracycline antibiotic	True
+ARO_3003665		False
+ARO_3000380		False
+ARO_3002898		False
+ARO_3003026		False
+ARO_3003012		False
+ARO_3004762		False
+ARO_3004644		False
+ARO_3003059	nucleoside antibiotic	True
+ARO_3003063		False
+ARO_3003064		False
+ARO_3002627	aminoglycoside antibiotic	True
+ARO_3002836	lincosamide antibiotic	True
+ARO_3002914	glycopeptide antibiotic	True
+ARO_3004359	cephalosporin; penicillin beta-lactam	True
+ARO_3000326	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3004789		False
+ARO_3000582	cephalosporin	True
+ARO_3000606		False
+ARO_3002514		False
+ARO_3003055	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic	True
+ARO_3003056	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic	True
+ARO_3003057	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic	True
+ARO_3002527		False
+ARO_3000851	carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3001424		False
+ARO_3004041	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3005166	tetracycline antibiotic	True
+ARO_3000476		False
+ARO_3003015		False
+ARO_3007456	aminoglycoside antibiotic; tetracycline antibiotic; diaminopyrimidine antibiotic	True
+ARO_3000599	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	True
+ARO_3000855	carbapenem; penicillin beta-lactam	True
+ARO_3003770		False
+ARO_3000478	tetracycline antibiotic	True
+ARO_3002203		False
+ARO_3001770		False
+ARO_3003793		False
+ARO_3002531		False
+ARO_3007014	disinfecting agents and antiseptics	True
+ARO_3000197	tetracycline antibiotic	True
+ARO_3007108		False
+ARO_3001794		False
+ARO_3002277		False
+ARO_3002704		False
+ARO_3002839		False
+ARO_3004675		False
+ARO_3003835	fluoroquinolone antibiotic; disinfecting agents and antiseptics	True
+ARO_3003111	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic	True
+ARO_3008082		False
+ARO_3002599		False
+ARO_3002589		False
+ARO_3002590		False
+ARO_3002641	aminoglycoside antibiotic	True
+ARO_3003016	diaminopyrimidine antibiotic	True
+ARO_3000845		False
+ARO_3003203	monobactam; cephalosporin	True
+ARO_3003019		False
+ARO_3003733	fusidane antibiotic	True
+ARO_3004099		False
+ARO_3004100		False
+ARO_3002983	macrolide antibiotic; aminoglycoside antibiotic	True
+ARO_3002982	macrolide antibiotic; aminoglycoside antibiotic	True
+ARO_3002415		False
+ARO_3002614	aminoglycoside antibiotic	True
+ARO_3002856	diaminopyrimidine antibiotic	True
+ARO_3000779	fluoroquinolone antibiotic; tetracycline antibiotic	True
+ARO_3000777	fluoroquinolone antibiotic; tetracycline antibiotic	True
+ARO_3000778	fluoroquinolone antibiotic; tetracycline antibiotic	True
+ARO_3003071		False
+ARO_3002585		False
+ARO_3003854		False
+ARO_3002699		False
+ARO_3000526		False
+ARO_3002857		False
+ARO_3003441	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	True
+ARO_3004146		False
+ARO_3000567	tetracycline antibiotic	True
+ARO_3004605	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3000860	aminoglycoside antibiotic	True
+ARO_3001338		False
+ARO_3000853		False
+ARO_3004668	fluoroquinolone antibiotic	True
+ARO_3003324	peptide antibiotic	True
+ARO_3007671	nitroimidazole antibiotic	True
+ARO_3000556	tetracycline antibiotic	True
+ARO_3002629	aminoglycoside antibiotic	True
+ARO_3007442		False
+ARO_3003918		False
+ARO_3002831		False
+ARO_3003106	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3004105	carbapenem; cephalosporin	True
+ARO_3002833	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3005097	penicillin beta-lactam	True
+ARO_3007208	rifamycin antibiotic	True
+ARO_3001209		False
+ARO_3005046	penicillin beta-lactam	True
+ARO_3001503		False
+ARO_3003205	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3005047	peptide antibiotic	True
+ARO_3005049		False
+ARO_3002525		False
+ARO_3000392		False
+ARO_3007182		False
+ARO_3003955	rifamycin antibiotic; isoniazid-like antibiotic	True
+ARO_3003035		False
+ARO_3000421	fluoroquinolone antibiotic	True
+ARO_3003971	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3005053	peptide antibiotic	True
+ARO_3005044	peptide antibiotic	True
+ARO_3003949	macrolide antibiotic; fluoroquinolone antibiotic; rifamycin antibiotic	True
+ARO_3004595	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3001458		False
+ARO_3004682	aminoglycoside antibiotic	True
+ARO_3000198		False
+ARO_3004047	aminoglycoside antibiotic	True
+ARO_3004094	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	True
+ARO_3005088		False
+ARO_3007097	phosphonic acid antibiotic	True
+ARO_3007098		False
+ARO_3007099	phosphonic acid antibiotic	True
+ARO_3003072	macrolide antibiotic	True
+ARO_3004089	aminoglycoside antibiotic	True
+ARO_3004466		False
+ARO_3004142	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	True
+ARO_3004144	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	True
+ARO_3004143	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	True
+ARO_3004588	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; peptide antibiotic	True
+ARO_3004661	phosphonic acid antibiotic	True
+ARO_3004747	cephalosporin	True
+ARO_3007101		False
+ARO_3001751		False
+ARO_3001734		False
+ARO_3004090		False
+ARO_3001749		False
+ARO_3001731		False
+ARO_3001763		False
+ARO_3004087		False
+ARO_3001735		False
+ARO_3001754		False
+ARO_3001752		False
+ARO_3001743		False
+ARO_3002875	diaminopyrimidine antibiotic	True
+ARO_3004478		False
+ARO_3004086	aminoglycoside antibiotic	True
+ARO_3007111		False
+ARO_3008507		False
+ARO_3008508	penicillin beta-lactam	True
+ARO_3002813		False
+ARO_3004113		False
+ARO_3003723	glycopeptide antibiotic	True
+ARO_3008821		False
+ARO_3007118		False
+ARO_3009008	penicillin beta-lactam	True
+ARO_3007027	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3007026	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3007192		False
+ARO_3007191		False
+ARO_3007190		False
+ARO_3007189		False
+ARO_3007188		False
+ARO_3008083		False
+ARO_3007433	peptide antibiotic	True
+ARO_3007662		False
+ARO_3007659	fluoroquinolone antibiotic; aminoglycoside antibiotic; isoniazid-like antibiotic	True
+ARO_3002679		False
+ARO_3004476	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic; antibiotic without defined classification; nucleoside antibiotic; pleuromutilin antibiotic	True
+ARO_3004639	penicillin beta-lactam; tetracycline antibiotic	True
+ARO_3004626	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3003599	cephalosporin; penicillin beta-lactam	True
+ARO_3007431		False
+ARO_3007470	carbapenem	True
+ARO_3007855		False
+ARO_3009066		False
+ARO_3007427		False
+ARO_3007107		False
+ARO_3005060		False
+ARO_3007371	phosphonic acid antibiotic	True
+ARO_3005061	aminoglycoside antibiotic	True
+ARO_3005062		False
+ARO_3005051	peptide antibiotic	True
+ARO_3005015	carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3005024	phosphonic acid antibiotic	True
+ARO_3005089	macrolide antibiotic	True
+ARO_3005087	macrolide antibiotic; streptogramin antibiotic	True
+ARO_3005012	carbapenem; cephalosporin	True
+ARO_3005056		False
+ARO_3007492		False
+ARO_3009096		False
+ARO_3007493		False
+ARO_3007033		False
+ARO_3005085		False
+ARO_3007044		False
+ARO_3007042	macrolide antibiotic; streptogramin antibiotic	True
+ARO_3007043		False
+ARO_3007049	macrolide antibiotic	True
+ARO_3007041	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3007047	macrolide antibiotic	True
+ARO_3007126		False
+ARO_3007069		False
+ARO_3007062		False
+ARO_3007085	cephalosporin; penicillin beta-lactam	True
+ARO_3009046		False
+ARO_3008462	penicillin beta-lactam	True
+ARO_3008074		False
+ARO_3008078	cephalosporin	True
+ARO_3008079	cephalosporin	True
+ARO_3008734	penicillin beta-lactam	True
+ARO_3007515		False
+ARO_3009035		False
+ARO_3007438		False
+ARO_3007848	carbapenem	True
+ARO_3007635		False
+ARO_3007837		False
+ARO_3005023	lincosamide antibiotic; streptogramin antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	True
+ARO_3007368		False
+ARO_3004054	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; sulfonamide antibiotic; phenicol antibiotic	True
+ARO_3001459		False
+ARO_3004730	pleuromutilin antibiotic	True
+ARO_3001461		False
+ARO_3005040	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; oxazolidinone antibiotic; glycopeptide antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	True
+ARO_3008237		False
+ARO_3008238		False
+ARO_3008084	penicillin beta-lactam	True
+ARO_3008474		False
+ARO_3008211	carbapenem	True
+ARO_3008199	penicillin beta-lactam	True
+ARO_3007435	carbapenem; penicillin beta-lactam	True
+ARO_3007993	cephalosporin	True
+ARO_3007483		False
+ARO_3007437		False
+ARO_3007459		False
+ARO_3008593		False
+ARO_3008081		False
+ARO_3003843	nucleoside antibiotic; disinfecting agents and antiseptics	True
+ARO_3007539	aminoglycoside antibiotic	True
+ARO_3008228		False
+ARO_3008668	penicillin beta-lactam	True
+ARO_3007801		False
+ARO_3007648	cephalosporin; penicillin beta-lactam	True
+ARO_3007654		False
+ARO_3007694		False
+ARO_3007678	cephalosporin	True
+ARO_3008618	penicillin beta-lactam	True
+ARO_3007682	monobactam; carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3007838		False
+ARO_3005348		False
+ARO_3004684	peptide antibiotic	True
+ARO_3007011	fluoroquinolone antibiotic; aminoglycoside antibiotic; penicillin beta-lactam; tetracycline antibiotic; disinfecting agents and antiseptics	True
+ARO_3006902		False
+ARO_3006957		False
+ARO_3007005		False
+ARO_3006991		False
+ARO_3006105		False
+ARO_3006987	carbapenem	True
+ARO_3006904	carbapenem	True
+ARO_3006943		False
+ARO_3004643	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	True
+ARO_3006903		False
+ARO_3007017		False
+ARO_3006994		False
+ARO_3006955		False
+ARO_3006996	carbapenem	True
+ARO_3005726		False
+ARO_3006997	carbapenem	True
+ARO_3007006		False
+ARO_3006883		False
+ARO_3007015	disinfecting agents and antiseptics	True
+ARO_3007002		False
+ARO_3006897		False
+ARO_3006985	carbapenem	True
+ARO_3006090		False
+ARO_3006894		False
+ARO_3001762		False
+ARO_3006922		False
+ARO_3006887		False
+ARO_3006988		False
+ARO_3006896		False
+ARO_3004480	rifamycin antibiotic	True
+ARO_3006942	carbapenem; cephalosporin	True
+ARO_3006972		False
+ARO_3007012	disinfecting agents and antiseptics	True
+ARO_3006865	carbapenem	True
+ARO_3006868		False
+ARO_3006976	carbapenem	True
+ARO_3006974		False
+ARO_3005334	diaminopyrimidine antibiotic	True
+ARO_3004543	macrolide antibiotic	True
+ARO_3004600		False
+ARO_3005346		False
+ARO_3005674		False
+ARO_3006952	carbapenem	True
+ARO_3006871	cephalosporin	True
+ARO_3006888		False
+ARO_3006941		False
+ARO_3006973	carbapenem	True
+ARO_3006979		False
+ARO_3007001		False
+ARO_3007004		False
+ARO_3004102	aminoglycoside antibiotic	True
+ARO_3000862	aminoglycoside antibiotic	True
+ARO_3002583		False
+ARO_3005335		False
+ARO_3006895		False
+ARO_3006890		False
+ARO_3005317		False
+ARO_3005350		False
+ARO_3006984		False
+ARO_3005937		False
+ARO_3006978	carbapenem; cephalosporin	True
+ARO_3005682	carbapenem; cephalosporin; penicillin beta-lactam	True
+ARO_3006954	carbapenem	True
+ARO_3006885		False
+ARO_3007028	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3004569	peptide antibiotic	True
+ARO_3001862		False
+ARO_3005775		False
+ARO_3005797	penicillin beta-lactam	True
+ARO_3007029	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	True
+ARO_3005792		False
+ARO_3006603		False
+ARO_3004361		False
+ARO_3005793		False
+ARO_3005324		False
+ARO_3006937		False
+ARO_3003948	macrolide antibiotic; fluoroquinolone antibiotic; rifamycin antibiotic	True
+ARO_3007000		False
+ARO_3006963		False
+ARO_3005768		False
+ARO_3005634		False
+ARO_3005323		False
+ARO_3005932	penicillin beta-lactam	True
+ARO_3005876	penicillin beta-lactam	True
+ARO_3005874		False
+ARO_3006884		False
+ARO_3006886		False
+ARO_3006882		False
+ARO_3006873		False
+ARO_3006872		False
+ARO_3006995		False
+ARO_3006864		False
+ARO_3006893	carbapenem	True
+ARO_3006892		False
+ARO_3006925		False
+ARO_3005887		False
+ARO_3007840		False
+ARO_3007494	tetracycline antibiotic	True
+ARO_3006981		False
+ARO_3006982		False
+ARO_3006186		False
+ARO_3006171		False
+ARO_3006964		False
+ARO_3006965		False
+ARO_3005351		False
+ARO_3006027	penicillin beta-lactam	True
+ARO_3006924	carbapenem	True
+ARO_3006088	penicillin beta-lactam	True
+ARO_3005345		False
+ARO_3006863	carbapenem	True
+ARO_3005349		False
+ARO_3006889		False
+ARO_3007374		False
+ARO_3007274		False
+ARO_3008394	cephalosporin	True
+ARO_3009044		False
+ARO_3008648	penicillin beta-lactam	True
+ARO_3003942		False

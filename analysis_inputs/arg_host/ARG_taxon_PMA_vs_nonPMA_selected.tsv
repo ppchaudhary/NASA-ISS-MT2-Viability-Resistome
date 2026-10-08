@@ -1,0 +1,21 @@
+ARG	Taxon	STATUS	Samples	Prevalence
+blaI	Bacillales	non-PMA	6	0.1875
+blaI	Bacillales	PMA	2	0.0625
+blaI	Staphylococcus	non-PMA	26	0.8125
+blaI	Staphylococcus	PMA	2	0.0625
+blaZ	Staphylococcus	non-PMA	28	0.875
+blaZ	Staphylococcus	PMA	4	0.125
+erm(X)	Actinomycetes	non-PMA	23	0.71875
+erm(X)	Actinomycetes	PMA	5	0.15625
+fosB	Staphylococcus epidermidis	non-PMA	29	0.90625
+fosB	Staphylococcus epidermidis	PMA	2	0.0625
+fusB	Staphylococcus	non-PMA	10	0.3125
+fusB	Staphylococcus	PMA	2	0.0625
+mph(C)	Staphylococcus	non-PMA	26	0.8125
+mph(C)	Staphylococcus	PMA	2	0.0625
+msr(A)	Staphylococcus	non-PMA	28	0.875
+msr(A)	Staphylococcus	PMA	3	0.09375
+qacA	Staphylococcus	non-PMA	18	0.5625
+qacA	Staphylococcus	PMA	2	0.0625
+qacC	Staphylococcus	non-PMA	24	0.75
+qacC	Staphylococcus	PMA	4	0.125

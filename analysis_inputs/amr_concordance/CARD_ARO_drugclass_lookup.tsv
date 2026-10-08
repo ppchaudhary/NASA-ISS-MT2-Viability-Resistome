@@ -1,0 +1,968 @@
+ARO	Drug Class
+ARO_3002835	lincosamide antibiotic
+ARO_3000250	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000923	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3000815	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; moenomycin antibiotic; disinfecting agents and antiseptics
+ARO_3003046	fluoroquinolone antibiotic
+ARO_3001417	cephalosporin; penicillin beta-lactam
+ARO_3000535	macrolide antibiotic
+ARO_3000616	macrolide antibiotic; streptogramin antibiotic
+ARO_3003010	fluoroquinolone antibiotic; aminoglycoside antibiotic
+ARO_3000502	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3002983	macrolide antibiotic; aminoglycoside antibiotic
+ARO_3000191	tetracycline antibiotic
+ARO_3000178	tetracycline antibiotic
+ARO_3002830	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3000498	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000251	macrolide antibiotic; streptogramin antibiotic; streptogramin B antibiotic
+ARO_3000596	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000391	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3000805	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3002877	cephalosporin
+ARO_3002641	aminoglycoside antibiotic
+ARO_3000245	rifamycin antibiotic
+ARO_3003009	fluoroquinolone antibiotic; aminoglycoside antibiotic
+ARO_3002882	lincosamide antibiotic
+ARO_3000027	fluoroquinolone antibiotic
+ARO_3000074	fluoroquinolone antibiotic
+ARO_3003052	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3000822	fluoroquinolone antibiotic
+ARO_3001301	macrolide antibiotic; lincosamide antibiotic
+ARO_3003681	disinfecting agents and antiseptics
+ARO_3000024	fluoroquinolone antibiotic
+ARO_3000319	macrolide antibiotic
+ARO_3000025	fluoroquinolone antibiotic
+ARO_3004074	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic
+ARO_3004144	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin
+ARO_3004456	phenicol antibiotic
+ARO_3000501	rifamycin antibiotic
+ARO_3000186	tetracycline antibiotic
+ARO_3004577	macrolide antibiotic; disinfecting agents and antiseptics
+ARO_3004075	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic
+ARO_3005047	peptide antibiotic
+ARO_3003693	macrolide antibiotic; tetracycline antibiotic
+ARO_3007010	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3005461	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3004480	rifamycin antibiotic
+ARO_3007208	rifamycin antibiotic
+ARO_3008823	penicillin beta-lactam
+ARO_3000781	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3000180	tetracycline antibiotic
+ARO_3002829	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3003106	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3000504	monobactam; carbapenem; cephalosporin; penicillin beta-lactam; phenicol antibiotic
+ARO_3000768	macrolide antibiotic; aminocoumarin antibiotic
+ARO_3000326	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3003060	peptide antibiotic
+ARO_3003005	cephalosporin
+ARO_3000621	penicillin beta-lactam
+ARO_3000195	tetracycline antibiotic
+ARO_3000800	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3000775	glycylcycline; tetracycline antibiotic
+ARO_3002487	cephalosporin; penicillin beta-lactam
+ARO_3004606	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3001214	fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003111	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic
+ARO_3000617	penicillin beta-lactam
+ARO_3000851	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3002630	aminoglycoside antibiotic
+ARO_3002823	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic
+ARO_3002571	aminoglycoside antibiotic
+ARO_3002865	diaminopyrimidine antibiotic
+ARO_3001483	penicillin beta-lactam
+ARO_3002623	aminoglycoside antibiotic
+ARO_3000375	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000801	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3003033	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3000811	macrolide antibiotic
+ARO_3003955	rifamycin antibiotic; isoniazid-like antibiotic
+ARO_3004072	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic
+ARO_3000620	fluoroquinolone antibiotic; tetracycline antibiotic
+ARO_3004038	aminoglycoside antibiotic
+ARO_3004454	phenicol antibiotic
+ARO_3000379	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3005051	peptide antibiotic
+ARO_3003836	disinfecting agents and antiseptics
+ARO_3005111	cephalosporin; penicillin beta-lactam
+ARO_3005099	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3006791	monobactam; carbapenem; cephalosporin
+ARO_3007013	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3003730	mupirocin-like antibiotic
+ARO_3000521	mupirocin-like antibiotic
+ARO_3002969	glycopeptide antibiotic
+ARO_3007119	tetracycline antibiotic
+ARO_3007123	tetracycline antibiotic
+ARO_3007120	tetracycline antibiotic
+ARO_3007124	tetracycline antibiotic
+ARO_3007199	carbapenem; cephalosporin
+ARO_3008490	carbapenem; penicillin beta-lactam
+ARO_3009008	penicillin beta-lactam
+ARO_3000167	tetracycline antibiotic
+ARO_3003548	nucleoside antibiotic; disinfecting agents and antiseptics
+ARO_3002690	phenicol antibiotic
+ARO_3000830	aminoglycoside antibiotic; aminocoumarin antibiotic
+ARO_3000216	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3000794	aminocoumarin antibiotic
+ARO_3002606	aminoglycoside antibiotic
+ARO_3003549	nucleoside antibiotic; disinfecting agents and antiseptics
+ARO_3003699	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3004054	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; sulfonamide antibiotic; phenicol antibiotic
+ARO_3003679	disinfecting agents and antiseptics
+ARO_3004036	tetracycline antibiotic
+ARO_3000804	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3004043	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003950	nitroimidazole antibiotic
+ARO_3005040	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; oxazolidinone antibiotic; glycopeptide antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003923	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic
+ARO_3004077	fluoroquinolone antibiotic; aminoglycoside antibiotic; disinfecting agents and antiseptics
+ARO_3005067	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003922	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic
+ARO_3000237	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3004107	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3002597	aminoglycoside antibiotic
+ARO_3007678	cephalosporin
+ARO_3004047	aminoglycoside antibiotic
+ARO_3001144	cephalosporin; penicillin beta-lactam
+ARO_3000593	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000839	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3002654	aminoglycoside antibiotic
+ARO_3003203	monobactam; cephalosporin
+ARO_3000553	glycylcycline; tetracycline antibiotic
+ARO_3002674	phenicol antibiotic
+ARO_3000215	penicillin beta-lactam
+ARO_3003047	fluoroquinolone antibiotic
+ARO_3002768	fluoroquinolone antibiotic
+ARO_3003016	diaminopyrimidine antibiotic
+ARO_3002629	aminoglycoside antibiotic
+ARO_3003576	peptide antibiotic
+ARO_3000196	tetracycline antibiotic
+ARO_3000841	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000194	tetracycline antibiotic
+ARO_3000595	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000793	aminocoumarin antibiotic
+ARO_3000090	penicillin beta-lactam
+ARO_3000598	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3000807	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3002985	peptide antibiotic
+ARO_3003112	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic
+ARO_3000573	tetracycline antibiotic
+ARO_3000449	phosphonic acid antibiotic
+ARO_3000565	tetracycline antibiotic
+ARO_3002931	glycopeptide antibiotic
+ARO_3002570	aminoglycoside antibiotic
+ARO_3003705	phenicol antibiotic
+ARO_3003835	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3004629	aminoglycoside antibiotic
+ARO_3003841	aminoglycoside antibiotic
+ARO_3003987	streptogramin antibiotic; streptogramin A antibiotic
+ARO_3004032	tetracycline antibiotic
+ARO_3004683	aminoglycoside antibiotic
+ARO_3004035	tetracycline antibiotic
+ARO_3004033	tetracycline antibiotic
+ARO_3003583	peptide antibiotic
+ARO_3004042	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3004143	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin
+ARO_3004142	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin
+ARO_3004359	cephalosporin; penicillin beta-lactam
+ARO_3004457	phenicol antibiotic
+ARO_3004766	penicillin beta-lactam
+ARO_3004539	macrolide antibiotic
+ARO_3004442	tetracycline antibiotic
+ARO_3004470	tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic
+ARO_3004775	penicillin beta-lactam
+ARO_3003920	peptide antibiotic
+ARO_3004552	diaminopyrimidine antibiotic
+ARO_3003741	macrolide antibiotic
+ARO_3005015	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005046	penicillin beta-lactam
+ARO_3005064	peptide antibiotic
+ARO_3004572	macrolide antibiotic; aminoglycoside antibiotic; oxazolidinone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3006904	carbapenem
+ARO_3005988	penicillin beta-lactam
+ARO_3005166	tetracycline antibiotic
+ARO_3007121	tetracycline antibiotic
+ARO_3007848	carbapenem
+ARO_3008079	cephalosporin
+ARO_3008519	penicillin beta-lactam
+ARO_3008668	penicillin beta-lactam
+ARO_3008679	penicillin beta-lactam
+ARO_3008758	penicillin beta-lactam
+ARO_3009029	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3003055	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic
+ARO_3002867	diaminopyrimidine antibiotic
+ARO_3000777	fluoroquinolone antibiotic; tetracycline antibiotic
+ARO_3003056	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic
+ARO_3000124	penicillin beta-lactam
+ARO_3000676	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic
+ARO_3000803	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3000491	aminoglycoside antibiotic
+ARO_3003053	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3002657	aminoglycoside antibiotic
+ARO_3003682	disinfecting agents and antiseptics
+ARO_3003031	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003723	glycopeptide antibiotic
+ARO_3000462	macrolide antibiotic
+ARO_3004089	aminoglycoside antibiotic
+ARO_3001328	tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3004597	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; peptide antibiotic
+ARO_3005012	carbapenem; cephalosporin
+ARO_3005013	carbapenem; cephalosporin
+ARO_3005069	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3000808	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3003952	peptide antibiotic
+ARO_3007470	carbapenem
+ARO_3008618	penicillin beta-lactam
+ARO_3000572	tetracycline antibiotic
+ARO_3003034	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3000826	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3002884	rifamycin antibiotic
+ARO_3000605	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3002817	macrolide antibiotic
+ARO_3000347	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3002522	aminocoumarin antibiotic
+ARO_3003066	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3002650	aminoglycoside antibiotic
+ARO_3002009	cephalosporin
+ARO_3003039	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; tetracycline antibiotic
+ARO_3002614	aminoglycoside antibiotic
+ARO_3002827	macrolide antibiotic; lincosamide antibiotic
+ARO_3000463	macrolide antibiotic
+ARO_3003748	macrolide antibiotic
+ARO_3004639	penicillin beta-lactam; tetracycline antibiotic
+ARO_3004652	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3004871	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3004102	aminoglycoside antibiotic
+ARO_3004740	cephalosporin; penicillin beta-lactam
+ARO_3005061	aminoglycoside antibiotic
+ARO_3005228	cephalosporin; penicillin beta-lactam
+ARO_3006924	carbapenem
+ARO_3006152	cephalosporin; penicillin beta-lactam
+ARO_3006992	carbapenem
+ARO_3002930	glycopeptide antibiotic
+ARO_3007682	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008648	penicillin beta-lactam
+ARO_3008997	penicillin beta-lactam
+ARO_3009009	penicillin beta-lactam
+ARO_3002516	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3000026	glycylcycline; tetracycline antibiotic
+ARO_3000792	aminocoumarin antibiotic
+ARO_3003552	fusidane antibiotic
+ARO_3000812	macrolide antibiotic
+ARO_3000410	sulfonamide antibiotic
+ARO_3000778	fluoroquinolone antibiotic; tetracycline antibiotic
+ARO_3002647	aminoglycoside antibiotic
+ARO_3000838	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3000599	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3003003	cephalosporin
+ARO_3000190	tetracycline antibiotic
+ARO_3003953	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3004667	fluoroquinolone antibiotic
+ARO_3004682	aminoglycoside antibiotic
+ARO_3003626	penicillin beta-lactam
+ARO_3005044	peptide antibiotic
+ARO_3006743	monobactam; carbapenem; cephalosporin
+ARO_3007012	disinfecting agents and antiseptics
+ARO_3008068	cephalosporin
+ARO_3003095	carbapenem
+ARO_3002275	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000230	aminoglycoside antibiotic
+ARO_3003006	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3002644	aminoglycoside antibiotic
+ARO_3002489	cephalosporin; penicillin beta-lactam
+ARO_3003713	monobactam; carbapenem; penicillin beta-lactam
+ARO_3001748	carbapenem; penicillin beta-lactam
+ARO_3004091	aminoglycoside antibiotic
+ARO_3004592	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3004588	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; peptide antibiotic
+ARO_3005010	disinfecting agents and antiseptics
+ARO_3006996	carbapenem
+ARO_3003002	cephalosporin
+ARO_3000166	tetracycline antibiotic
+ARO_3001404	penicillin beta-lactam
+ARO_3001808	carbapenem; penicillin beta-lactam
+ARO_3002528	aminoglycoside antibiotic
+ARO_3001780	penicillin beta-lactam
+ARO_3002626	aminoglycoside antibiotic
+ARO_3002892	tetracycline antibiotic
+ARO_3003577	peptide antibiotic
+ARO_3002660	aminoglycoside antibiotic
+ARO_3000522	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3002841	streptogramin antibiotic; streptogramin A antibiotic
+ARO_3000168	tetracycline antibiotic
+ARO_3002703	phenicol antibiotic
+ARO_3003036	macrolide antibiotic
+ARO_3003051	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3002859	diaminopyrimidine antibiotic
+ARO_3002204	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000192	tetracycline antibiotic
+ARO_3000118	streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3002639	aminoglycoside antibiotic
+ARO_3000263	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3002578	aminoglycoside antibiotic
+ARO_3002672	phenicol antibiotic
+ARO_3003634	penicillin beta-lactam
+ARO_3003762	lincosamide antibiotic
+ARO_3003992	rifamycin antibiotic
+ARO_3004463	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005068	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3007014	disinfecting agents and antiseptics
+ARO_3007122	tetracycline antibiotic
+ARO_3004719	glycylcycline; tetracycline antibiotic
+ARO_3003664	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008394	cephalosporin
+ARO_3002634	aminoglycoside antibiotic
+ARO_3000809	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3003057	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic
+ARO_3002538	aminoglycoside antibiotic
+ARO_3000840	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000802	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3000780	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3002897	nucleoside antibiotic
+ARO_3003704	phenicol antibiotic
+ARO_3003731	fusidane antibiotic
+ARO_3004601	lincosamide antibiotic
+ARO_3004674	phosphonic acid antibiotic
+ARO_3003801	bicyclomycin-like antibiotic
+ARO_3005063	peptide antibiotic
+ARO_3003971	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3003551	disinfecting agents and antiseptics
+ARO_3000254	tetracycline antibiotic
+ARO_3000957	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3000518	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam
+ARO_3006087	penicillin beta-lactam
+ARO_3000782	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3007015	disinfecting agents and antiseptics
+ARO_3009055	cephalosporin; penicillin beta-lactam
+ARO_3002689	phenicol antibiotic
+ARO_3000929	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3000444	rifamycin antibiotic
+ARO_3002683	phenicol antibiotic
+ARO_3002825	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3003030	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3002873	phosphonic acid antibiotic
+ARO_3004673	phosphonic acid antibiotic
+ARO_3004451	phenicol antibiotic
+ARO_3004085	lincosamide antibiotic
+ARO_3000614	macrolide antibiotic
+ARO_3001416	cephalosporin; penicillin beta-lactam
+ARO_3000960	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3007435	carbapenem; penicillin beta-lactam
+ARO_3003550	nucleoside antibiotic; disinfecting agents and antiseptics
+ARO_3002627	aminoglycoside antibiotic
+ARO_3000533	macrolide antibiotic
+ARO_3004663	fusidane antibiotic
+ARO_3005093	cephalosporin; penicillin beta-lactam
+ARO_3005337	carbapenem; penicillin beta-lactam
+ARO_3001329	phosphonic acid antibiotic
+ARO_3002566	aminoglycoside antibiotic
+ARO_3001811	penicillin beta-lactam
+ARO_3000181	tetracycline antibiotic
+ARO_3000316	macrolide antibiotic
+ARO_3002352	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3002368	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000343	tetracycline antibiotic
+ARO_3003714	carbapenem
+ARO_3004784	penicillin beta-lactam
+ARO_3004643	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3003967	fluoroquinolone antibiotic
+ARO_3004656	phenicol antibiotic
+ARO_3003984	peptide antibiotic
+ARO_3003599	cephalosporin; penicillin beta-lactam
+ARO_3004123	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3004458	phenicol antibiotic
+ARO_3004544	macrolide antibiotic
+ARO_3004596	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3005100	phosphonic acid antibiotic
+ARO_3005757	penicillin beta-lactam
+ARO_3007209	rifamycin antibiotic
+ARO_3007201	carbapenem; cephalosporin
+ARO_3007462	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008192	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008222	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008567	carbapenem; penicillin beta-lactam
+ARO_3009013	penicillin beta-lactam
+ARO_3001216	fluoroquinolone antibiotic
+ARO_3000656	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3001020	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3006879	cephalosporin
+ARO_3007085	cephalosporin; penicillin beta-lactam
+ARO_3002999	cephalosporin
+ARO_3000205	glycylcycline; tetracycline antibiotic
+ARO_3002659	aminoglycoside antibiotic
+ARO_3000601	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3004659	macrolide antibiotic; lincosamide antibiotic
+ARO_3004073	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic
+ARO_3004543	macrolide antibiotic
+ARO_3006225	cephalosporin
+ARO_3006926	carbapenem
+ARO_3005707	penicillin beta-lactam
+ARO_3000300	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic; pleuromutilin antibiotic
+ARO_3003067	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3003698	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003204	monobactam; cephalosporin
+ARO_3004658	phenicol antibiotic
+ARO_3002929	glycopeptide antibiotic
+ARO_3000421	fluoroquinolone antibiotic
+ARO_3000412	sulfonamide antibiotic
+ARO_3000149	phosphonic acid antibiotic
+ARO_3003692	macrolide antibiotic; tetracycline antibiotic
+ARO_3003600	carbapenem; penicillin beta-lactam
+ARO_3003948	macrolide antibiotic; fluoroquinolone antibiotic; rifamycin antibiotic
+ARO_3004651	lincosamide antibiotic
+ARO_3003628	penicillin beta-lactam
+ARO_3004569	peptide antibiotic
+ARO_3006619	monobactam; carbapenem; cephalosporin
+ARO_3007669	macrolide antibiotic; tetracycline antibiotic; disinfecting agents and antiseptics
+ARO_3000508	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam
+ARO_3000796	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam
+ARO_3000206	tetracycline antibiotic
+ARO_3003001	cephalosporin
+ARO_3000567	tetracycline antibiotic
+ARO_3000833	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam; tetracycline antibiotic
+ARO_3000810	macrolide antibiotic
+ARO_3002628	aminoglycoside antibiotic
+ARO_3001327	fluoroquinolone antibiotic
+ARO_3000795	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam
+ARO_3003680	disinfecting agents and antiseptics
+ARO_3003700	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3003962	antibacterial free fatty acids
+ARO_3004122	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3004574	fluoroquinolone antibiotic
+ARO_3006871	cephalosporin
+ARO_3007050	macrolide antibiotic
+ARO_3008522	penicillin beta-lactam
+ARO_3007998	cephalosporin
+ARO_3008556	carbapenem; penicillin beta-lactam
+ARO_3008605	carbapenem; penicillin beta-lactam
+ARO_3002814	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic
+ARO_3002645	aminoglycoside antibiotic
+ARO_3002923	glycopeptide antibiotic
+ARO_3000860	aminoglycoside antibiotic
+ARO_3002926	glycopeptide antibiotic
+ARO_3004039	macrolide antibiotic
+ARO_3000179	tetracycline antibiotic
+ARO_3005097	penicillin beta-lactam
+ARO_3005551	carbapenem; penicillin beta-lactam
+ARO_3006880	cephalosporin
+ARO_3006877	cephalosporin
+ARO_3004573	phosphonic acid antibiotic
+ARO_3000965	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3000746	glycylcycline; tetracycline antibiotic
+ARO_3004661	phosphonic acid antibiotic
+ARO_3004041	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3007659	fluoroquinolone antibiotic; aminoglycoside antibiotic; isoniazid-like antibiotic
+ARO_3000832	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam; tetracycline antibiotic
+ARO_3002190	cephalosporin; penicillin beta-lactam
+ARO_3003072	macrolide antibiotic
+ARO_3007029	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3002804	phosphonic acid antibiotic
+ARO_3003109	macrolide antibiotic; streptogramin antibiotic
+ARO_3002883	rifamycin antibiotic
+ARO_3000549	glycylcycline; tetracycline antibiotic
+ARO_3002224	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000888	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3002843	streptogramin antibiotic; streptogramin A antibiotic
+ARO_3003811	glycylcycline; tetracycline antibiotic
+ARO_3002837	lincosamide antibiotic
+ARO_3002868	diaminopyrimidine antibiotic
+ARO_3002542	aminoglycoside antibiotic
+ARO_3000779	fluoroquinolone antibiotic; tetracycline antibiotic
+ARO_3002956	glycopeptide antibiotic
+ARO_3000177	tetracycline antibiotic
+ARO_3004608	macrolide antibiotic
+ARO_3000774	glycylcycline; tetracycline antibiotic
+ARO_3000753	fluoroquinolone antibiotic; disinfecting agents and antiseptics
+ARO_3002687	phenicol antibiotic
+ARO_3001306	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3002986	peptide antibiotic
+ARO_3000559	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic
+ARO_3003670	carbapenem
+ARO_3002914	glycopeptide antibiotic
+ARO_3003733	fusidane antibiotic
+ARO_3003746	oxazolidinone antibiotic; phenicol antibiotic
+ARO_3004670	phosphonic acid antibiotic
+ARO_3004715	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3002705	phenicol antibiotic
+ARO_3004751	penicillin beta-lactam
+ARO_3004189	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3004455	phenicol antibiotic
+ARO_3001729	carbapenem; penicillin beta-lactam
+ARO_3001761	carbapenem; penicillin beta-lactam
+ARO_3004815	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005043	phenicol antibiotic
+ARO_3005052	peptide antibiotic
+ARO_3005053	peptide antibiotic
+ARO_3005059	carbapenem; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic
+ARO_3006378	cephalosporin
+ARO_3005682	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005805	penicillin beta-lactam
+ARO_3006034	carbapenem; penicillin beta-lactam
+ARO_3006111	penicillin beta-lactam
+ARO_3007019	phenicol antibiotic
+ARO_3002671	phenicol antibiotic
+ARO_3004595	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic
+ARO_3007028	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3007026	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3002941	glycopeptide antibiotic
+ARO_3002965	glycopeptide antibiotic
+ARO_3007041	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3007049	macrolide antibiotic
+ARO_3007180	cephalosporin; penicillin beta-lactam
+ARO_3008084	penicillin beta-lactam
+ARO_3008193	penicillin beta-lactam
+ARO_3008897	monobactam; carbapenem; cephalosporin
+ARO_3002849	rifamycin antibiotic
+ARO_3002856	diaminopyrimidine antibiotic
+ARO_3003097	cephalosporin
+ARO_3001654	carbapenem; penicillin beta-lactam
+ARO_3000592	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3000958	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3001777	penicillin beta-lactam
+ARO_3001512	carbapenem; penicillin beta-lactam
+ARO_3002919	glycopeptide antibiotic
+ARO_3002948	glycopeptide antibiotic
+ARO_3002563	aminoglycoside antibiotic
+ARO_3001766	penicillin beta-lactam
+ARO_3002944	glycopeptide antibiotic
+ARO_3002982	macrolide antibiotic; aminoglycoside antibiotic
+ARO_3000816	macrolide antibiotic
+ARO_3003070	glycopeptide antibiotic
+ARO_3002519	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3002260	carbapenem
+ARO_3002611	aminoglycoside antibiotic
+ARO_3003059	nucleoside antibiotic
+ARO_3002631	aminoglycoside antibiotic
+ARO_3000165	tetracycline antibiotic
+ARO_3000481	tetracycline antibiotic
+ARO_3003742	macrolide antibiotic
+ARO_3003728	glycopeptide antibiotic
+ARO_3002191	cephalosporin; penicillin beta-lactam
+ARO_3003842	carbapenem; penicillin beta-lactam
+ARO_3003961	antibacterial free fatty acids
+ARO_3004671	phosphonic acid antibiotic
+ARO_3004672	phosphonic acid antibiotic
+ARO_3004684	peptide antibiotic
+ARO_3003867	cephalosporin
+ARO_3004542	macrolide antibiotic
+ARO_3006442	cephalosporin
+ARO_3006951	carbapenem
+ARO_3005487	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3006973	carbapenem
+ARO_3004641	aminoglycoside antibiotic
+ARO_3003745	macrolide antibiotic; tetracycline antibiotic
+ARO_3007533	peptide antibiotic
+ARO_3007846	carbapenem; cephalosporin
+ARO_3008078	cephalosporin
+ARO_3007968	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008526	penicillin beta-lactam
+ARO_3008637	carbapenem; penicillin beta-lactam
+ARO_3008749	carbapenem; penicillin beta-lactam
+ARO_3008746	carbapenem; penicillin beta-lactam
+ARO_3002684	phenicol antibiotic
+ARO_3003037	fluoroquinolone antibiotic; aminoglycoside antibiotic
+ARO_3006893	carbapenem
+ARO_3006768	monobactam; carbapenem; cephalosporin
+ARO_3007011	fluoroquinolone antibiotic; aminoglycoside antibiotic; penicillin beta-lactam; tetracycline antibiotic; disinfecting agents and antiseptics
+ARO_3007210	rifamycin antibiotic
+ARO_3007494	tetracycline antibiotic
+ARO_3008498	carbapenem; penicillin beta-lactam
+ARO_3008560	penicillin beta-lactam
+ARO_3005035	cephalosporin; penicillin beta-lactam
+ARO_3002925	glycopeptide antibiotic
+ARO_3001305	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3002686	phenicol antibiotic
+ARO_3000844	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3001695	carbapenem; penicillin beta-lactam
+ARO_3002909	glycopeptide antibiotic
+ARO_3002615	aminoglycoside antibiotic
+ARO_3000556	tetracycline antibiotic
+ARO_3002972	glycopeptide antibiotic
+ARO_3000862	aminoglycoside antibiotic
+ARO_3002486	cephalosporin; penicillin beta-lactam
+ARO_3002894	tetracycline antibiotic
+ARO_3004626	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3004795	penicillin beta-lactam
+ARO_3004677	aminoglycoside antibiotic
+ARO_3004730	pleuromutilin antibiotic
+ARO_3004801	penicillin beta-lactam
+ARO_3004191	aminoglycoside antibiotic
+ARO_3001460	carbapenem; penicillin beta-lactam
+ARO_3003620	penicillin beta-lactam
+ARO_3004094	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic
+ARO_3006307	cephalosporin
+ARO_3006905	carbapenem
+ARO_3005831	penicillin beta-lactam
+ARO_3005810	penicillin beta-lactam
+ARO_3005933	penicillin beta-lactam
+ARO_3002924	glycopeptide antibiotic
+ARO_3005121	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3008060	cephalosporin
+ARO_3007982	cephalosporin
+ARO_3002828	macrolide antibiotic
+ARO_3001178	cephalosporin; penicillin beta-lactam
+ARO_3003116	carbapenem; penicillin beta-lactam
+ARO_3001303	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3002250	penicillin beta-lactam
+ARO_3003205	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic
+ARO_3002907	glycopeptide antibiotic
+ARO_3002616	aminoglycoside antibiotic
+ARO_3003559	cephalosporin
+ARO_3003578	peptide antibiotic
+ARO_3003949	macrolide antibiotic; fluoroquinolone antibiotic; rifamycin antibiotic
+ARO_3003604	penicillin beta-lactam
+ARO_3003862	cephalosporin
+ARO_3004770	carbapenem; cephalosporin
+ARO_3005269	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3006439	cephalosporin
+ARO_3005524	carbapenem; penicillin beta-lactam
+ARO_3006952	carbapenem
+ARO_3006088	penicillin beta-lactam
+ARO_3004332	peptide antibiotic
+ARO_3007372	phosphonic acid antibiotic
+ARO_3007433	peptide antibiotic
+ARO_3005023	lincosamide antibiotic; streptogramin antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic
+ARO_3007993	cephalosporin
+ARO_3008209	carbapenem
+ARO_3008509	penicillin beta-lactam
+ARO_3008533	carbapenem; penicillin beta-lactam
+ARO_3008584	carbapenem; penicillin beta-lactam
+ARO_3008704	penicillin beta-lactam
+ARO_3008771	penicillin beta-lactam
+ARO_3004605	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic
+ARO_3003186	penicillin beta-lactam
+ARO_3000005	glycopeptide antibiotic
+ARO_3002534	aminoglycoside antibiotic
+ARO_3002688	phenicol antibiotic
+ARO_3002475	penicillin beta-lactam
+ARO_3000791	monobactam; carbapenem; cephalosporin; penicillin beta-lactam; phenicol antibiotic
+ARO_3000516	fluoroquinolone antibiotic
+ARO_3002526	aminoglycoside antibiotic
+ARO_3002861	diaminopyrimidine antibiotic
+ARO_3003440	penicillin beta-lactam
+ARO_3002922	glycopeptide antibiotic
+ARO_3002718	fluoroquinolone antibiotic
+ARO_3000823	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3002235	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3002561	aminoglycoside antibiotic
+ARO_3002862	diaminopyrimidine antibiotic
+ARO_3003774	peptide antibiotic
+ARO_3003907	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic
+ARO_3004699	nucleoside antibiotic
+ARO_3004105	carbapenem; cephalosporin
+ARO_3004747	cephalosporin
+ARO_3004460	phenicol antibiotic
+ARO_3004768	carbapenem; cephalosporin
+ARO_3001730	carbapenem; penicillin beta-lactam
+ARO_3003631	penicillin beta-lactam
+ARO_3005087	macrolide antibiotic; streptogramin antibiotic
+ARO_3005098	disinfecting agents and antiseptics
+ARO_3006224	cephalosporin
+ARO_3005671	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3006477	cephalosporin; penicillin beta-lactam
+ARO_3006954	carbapenem
+ARO_3005748	penicillin beta-lactam
+ARO_3005838	penicillin beta-lactam
+ARO_3005844	penicillin beta-lactam
+ARO_3005866	carbapenem; penicillin beta-lactam
+ARO_3006126	carbapenem; penicillin beta-lactam
+ARO_3006137	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3006976	carbapenem
+ARO_3006997	carbapenem
+ARO_3002949	glycopeptide antibiotic
+ARO_3007456	aminoglycoside antibiotic; tetracycline antibiotic; diaminopyrimidine antibiotic
+ARO_3007671	nitroimidazole antibiotic
+ARO_3008027	cephalosporin
+ARO_3008776	penicillin beta-lactam
+ARO_3002871	tetracycline antibiotic
+ARO_3001727	carbapenem; penicillin beta-lactam
+ARO_3005547	carbapenem; penicillin beta-lactam
+ARO_3002263	carbapenem
+ARO_3002836	lincosamide antibiotic
+ARO_3000783	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidane antibiotic
+ARO_3002268	carbapenem
+ARO_3000861	aminoglycoside antibiotic
+ARO_3002365	monobactam; carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3002952	glycopeptide antibiotic
+ARO_3003716	carbapenem
+ARO_3004798	penicillin beta-lactam
+ARO_3004791	penicillin beta-lactam
+ARO_3004464	cephalosporin
+ARO_3003657	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3001854	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005024	phosphonic acid antibiotic
+ARO_3003133	cephalosporin
+ARO_3005316	cephalosporin; penicillin beta-lactam
+ARO_3006263	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005548	carbapenem; penicillin beta-lactam
+ARO_3006942	carbapenem; cephalosporin
+ARO_3006962	carbapenem; cephalosporin
+ARO_3006153	cephalosporin; penicillin beta-lactam
+ARO_3005876	penicillin beta-lactam
+ARO_3005932	penicillin beta-lactam
+ARO_3006023	carbapenem; penicillin beta-lactam
+ARO_3007047	macrolide antibiotic
+ARO_3007097	phosphonic acid antibiotic
+ARO_3007371	phosphonic acid antibiotic
+ARO_3004668	fluoroquinolone antibiotic
+ARO_3002587	aminoglycoside antibiotic
+ARO_3007644	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3007648	cephalosporin; penicillin beta-lactam
+ARO_3007913	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3007945	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3007964	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3007963	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008214	carbapenem
+ARO_3008457	penicillin beta-lactam
+ARO_3008598	carbapenem; penicillin beta-lactam
+ARO_3008595	cephalosporin; penicillin beta-lactam
+ARO_3008807	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3008830	monobactam; carbapenem; cephalosporin
+ARO_3009036	cephalosporin
+ARO_3003565	penicillin beta-lactam
+ARO_3008404	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3008998	penicillin beta-lactam
+ARO_3003250	peptide antibiotic
+ARO_3002635	aminoglycoside antibiotic
+ARO_3000197	tetracycline antibiotic
+ARO_3002613	aminoglycoside antibiotic
+ARO_3001755	carbapenem; penicillin beta-lactam
+ARO_3001463	carbapenem; penicillin beta-lactam
+ARO_3004541	macrolide antibiotic
+ARO_3004580	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics
+ARO_3005334	diaminopyrimidine antibiotic
+ARO_3006328	cephalosporin
+ARO_3006127	carbapenem; penicillin beta-lactam
+ARO_3006817	monobactam; carbapenem; cephalosporin
+ARO_3007042	macrolide antibiotic; streptogramin antibiotic
+ARO_3007099	phosphonic acid antibiotic
+ARO_3007109	nitroimidazole antibiotic
+ARO_3007509	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3007645	lincosamide antibiotic; antibiotic without defined classification; pleuromutilin antibiotic
+ARO_3002649	aminoglycoside antibiotic
+ARO_3002559	aminoglycoside antibiotic
+ARO_3006867	carbapenem
+ARO_3008779	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3002308	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3003176	penicillin beta-lactam
+ARO_3002234	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3002875	diaminopyrimidine antibiotic
+ARO_3002558	aminoglycoside antibiotic
+ARO_3006330	cephalosporin
+ARO_3005873	penicillin beta-lactam
+ARO_3009026	penicillin beta-lactam
+ARO_3002601	aminoglycoside antibiotic
+ARO_3002524	aminoglycoside antibiotic
+ARO_3002567	aminoglycoside antibiotic
+ARO_3003061	peptide antibiotic
+ARO_3001313	elfamycin antibiotic
+ARO_3002702	phenicol antibiotic
+ARO_3002913	glycopeptide antibiotic
+ARO_3002846	rifamycin antibiotic
+ARO_3005057	tetracycline antibiotic
+ARO_3005986	penicillin beta-lactam
+ARO_3005865	carbapenem; penicillin beta-lactam
+ARO_3006966	carbapenem
+ARO_3006841	monobactam; carbapenem; cephalosporin
+ARO_3007539	aminoglycoside antibiotic
+ARO_3008194	penicillin beta-lactam
+ARO_3008499	carbapenem; penicillin beta-lactam
+ARO_3008426	carbapenem; penicillin beta-lactam
+ARO_3002663	aminoglycoside antibiotic
+ARO_3000175	tetracycline antibiotic
+ARO_3002513	cephalosporin; penicillin beta-lactam
+ARO_3000499	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam
+ARO_3000478	tetracycline antibiotic
+ARO_3003749	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3003636	penicillin beta-lactam
+ARO_3004810	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005021	lincosamide antibiotic; streptogramin antibiotic; oxazolidinone antibiotic; glycopeptide antibiotic; phenicol antibiotic
+ARO_3006371	cephalosporin
+ARO_3006422	cephalosporin
+ARO_3006029	carbapenem; penicillin beta-lactam
+ARO_3006128	carbapenem; penicillin beta-lactam
+ARO_3003839	macrolide antibiotic
+ARO_3009077	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3002987	peptide antibiotic
+ARO_3001812	carbapenem; penicillin beta-lactam
+ARO_3002988	peptide antibiotic
+ARO_3000495	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3001044	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3005158	carbapenem; penicillin beta-lactam
+ARO_3005533	carbapenem; penicillin beta-lactam
+ARO_3001308	streptogramin antibiotic; streptogramin B antibiotic
+ARO_3003843	nucleoside antibiotic; disinfecting agents and antiseptics
+ARO_3008609	carbapenem; penicillin beta-lactam
+ARO_3002872	phosphonic acid antibiotic
+ARO_3004749	penicillin beta-lactam
+ARO_3005462	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005742	carbapenem; penicillin beta-lactam
+ARO_3005982	carbapenem; penicillin beta-lactam
+ARO_3006987	carbapenem
+ARO_3008557	carbapenem; penicillin beta-lactam
+ARO_3002646	aminoglycoside antibiotic
+ARO_3003007	fluoroquinolone antibiotic; nucleoside antibiotic; phenicol antibiotic; disinfecting agents and antiseptics
+ARO_3002229	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3000582	cephalosporin
+ARO_3001671	carbapenem; penicillin beta-lactam
+ARO_3002819	macrolide antibiotic; streptogramin antibiotic; streptogramin B antibiotic
+ARO_3004625	fluoroquinolone antibiotic
+ARO_3004697	peptide antibiotic
+ARO_3004364	peptide antibiotic
+ARO_3004476	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic; antibiotic without defined classification; nucleoside antibiotic; pleuromutilin antibiotic
+ARO_3005162	phosphonic acid antibiotic
+ARO_3006949	carbapenem
+ARO_3006012	carbapenem; penicillin beta-lactam
+ARO_3006757	monobactam; carbapenem; cephalosporin
+ARO_3008540	carbapenem; penicillin beta-lactam
+ARO_3008988	penicillin beta-lactam
+ARO_3001547	carbapenem; penicillin beta-lactam
+ARO_3000790	monobactam; carbapenem; cephalosporin; penicillin beta-lactam; phenicol antibiotic
+ARO_3004720	glycylcycline; tetracycline antibiotic
+ARO_3004773	penicillin beta-lactam
+ARO_3004555	diaminopyrimidine antibiotic
+ARO_3004583	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics
+ARO_3006433	cephalosporin
+ARO_3006745	monobactam; carbapenem; cephalosporin
+ARO_3007206	penicillin beta-lactam
+ARO_3007637	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; nucleoside antibiotic
+ARO_3008211	carbapenem
+ARO_3002893	tetracycline antibiotic
+ARO_3003441	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic
+ARO_3003096	cephalosporin
+ARO_3000566	tetracycline antibiotic
+ARO_3000604	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3002575	aminoglycoside antibiotic
+ARO_3004797	penicillin beta-lactam
+ARO_3003991	macrolide antibiotic
+ARO_3004704	aminoglycoside antibiotic
+ARO_3004759	penicillin beta-lactam
+ARO_3003632	penicillin beta-lactam
+ARO_3004559	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3006863	carbapenem
+ARO_3005582	penicillin beta-lactam
+ARO_3006155	penicillin beta-lactam
+ARO_3005685	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005725	penicillin beta-lactam
+ARO_3005794	cephalosporin; penicillin beta-lactam
+ARO_3007401	aminoglycoside antibiotic
+ARO_3008072	carbapenem
+ARO_3008395	cephalosporin
+ARO_3008469	carbapenem; penicillin beta-lactam
+ARO_3008594	carbapenem; penicillin beta-lactam
+ARO_3008713	carbapenem; penicillin beta-lactam
+ARO_3009022	penicillin beta-lactam
+ARO_3001681	carbapenem; penicillin beta-lactam
+ARO_3002866	diaminopyrimidine antibiotic
+ARO_3002927	glycopeptide antibiotic
+ARO_3002557	aminoglycoside antibiotic
+ARO_3002669	aminoglycoside antibiotic
+ARO_3002593	aminoglycoside antibiotic
+ARO_3002858	diaminopyrimidine antibiotic
+ARO_3001013	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3001670	carbapenem; penicillin beta-lactam
+ARO_3002265	carbapenem
+ARO_3002553	aminoglycoside antibiotic
+ARO_3003715	carbapenem
+ARO_3003717	carbapenem
+ARO_3002934	glycopeptide antibiotic
+ARO_3004678	aminoglycoside antibiotic
+ARO_3004761	penicillin beta-lactam
+ARO_3004185	penicillin beta-lactam
+ARO_3004290	cephalosporin; penicillin beta-lactam
+ARO_3004599	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic
+ARO_3006301	cephalosporin
+ARO_3005540	carbapenem; penicillin beta-lactam
+ARO_3005689	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005744	carbapenem; penicillin beta-lactam
+ARO_3005828	penicillin beta-lactam
+ARO_3005826	penicillin beta-lactam
+ARO_3005970	carbapenem; penicillin beta-lactam
+ARO_3006007	carbapenem; penicillin beta-lactam
+ARO_3002966	glycopeptide antibiotic
+ARO_3007027	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3007836	penicillin beta-lactam
+ARO_3008053	cephalosporin
+ARO_3008575	penicillin beta-lactam
+ARO_3008607	carbapenem; penicillin beta-lactam
+ARO_3008735	penicillin beta-lactam
+ARO_3008734	penicillin beta-lactam
+ARO_3002648	aminoglycoside antibiotic
+ARO_3001809	penicillin beta-lactam
+ARO_3002264	carbapenem
+ARO_3000856	carbapenem
+ARO_3003158	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3004769	carbapenem; cephalosporin
+ARO_3006865	carbapenem
+ARO_3005797	penicillin beta-lactam
+ARO_3005864	carbapenem; penicillin beta-lactam
+ARO_3006122	carbapenem; penicillin beta-lactam
+ARO_3002833	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic
+ARO_3002474	penicillin beta-lactam
+ARO_3005795	cephalosporin; penicillin beta-lactam
+ARO_3008199	penicillin beta-lactam
+ARO_3009006	penicillin beta-lactam
+ARO_3002710	fluoroquinolone antibiotic
+ARO_3005855	penicillin beta-lactam
+ARO_3002878	cephalosporin; penicillin beta-lactam
+ARO_3002394	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3002472	penicillin beta-lactam
+ARO_3000594	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic
+ARO_3003324	peptide antibiotic
+ARO_3005856	penicillin beta-lactam
+ARO_3002932	glycopeptide antibiotic
+ARO_3002963	glycopeptide antibiotic
+ARO_3002652	aminoglycoside antibiotic
+ARO_3002638	aminoglycoside antibiotic
+ARO_3004786	carbapenem; cephalosporin
+ARO_3003859	cephalosporin
+ARO_3006037	carbapenem; penicillin beta-lactam
+ARO_3006038	carbapenem; penicillin beta-lactam
+ARO_3008462	penicillin beta-lactam
+ARO_3001453	carbapenem; penicillin beta-lactam
+ARO_3000855	carbapenem; penicillin beta-lactam
+ARO_3001504	carbapenem; penicillin beta-lactam
+ARO_3005729	carbapenem; penicillin beta-lactam
+ARO_3009021	penicillin beta-lactam
+ARO_3003838	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam
+ARO_3004587	tetracycline antibiotic
+ARO_3005270	monobactam; cephalosporin; penicillin beta-lactam
+ARO_3006874	cephalosporin
+ARO_3005730	carbapenem; penicillin beta-lactam
+ARO_3005936	carbapenem; penicillin beta-lactam
+ARO_3002662	aminoglycoside antibiotic
+ARO_3003969	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; tetracycline antibiotic
+ARO_3004086	aminoglycoside antibiotic
+ARO_3004494	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005678	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3006033	penicillin beta-lactam
+ARO_3001744	penicillin beta-lactam
+ARO_3008041	cephalosporin
+ARO_3009040	cephalosporin
+ARO_3001300	macrolide antibiotic; lincosamide antibiotic
+ARO_3002637	aminoglycoside antibiotic
+ARO_3003556	cephalosporin; penicillin beta-lactam
+ARO_3003020	diaminopyrimidine antibiotic
+ARO_3002845	streptogramin antibiotic; streptogramin A antibiotic
+ARO_3002481	penicillin beta-lactam
+ARO_3002510	cephalosporin; penicillin beta-lactam
+ARO_3000193	tetracycline antibiotic
+ARO_3004645	diaminopyrimidine antibiotic
+ARO_3005089	macrolide antibiotic
+ARO_3006226	cephalosporin
+ARO_3002230	carbapenem; cephalosporin; penicillin beta-lactam
+ARO_3005703	penicillin beta-lactam
+ARO_3006690	monobactam; carbapenem; cephalosporin
+ARO_3006985	carbapenem
+ARO_3006978	carbapenem; cephalosporin
+ARO_3008210	carbapenem
+ARO_3008570	carbapenem; penicillin beta-lactam
+ARO_3001456	carbapenem; penicillin beta-lactam
+ARO_3005868	carbapenem; penicillin beta-lactam
+ARO_3008508	penicillin beta-lactam
+ARO_3008726	carbapenem; penicillin beta-lactam
+ARO_3000217	penicillin beta-lactam
+ARO_3005706	penicillin beta-lactam
+ARO_3006027	penicillin beta-lactam
+ARO_3002261	carbapenem
+ARO_3005804	penicillin beta-lactam
+ARO_3003981	tetracycline antibiotic

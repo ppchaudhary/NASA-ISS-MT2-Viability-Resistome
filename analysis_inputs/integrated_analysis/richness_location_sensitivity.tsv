@@ -1,0 +1,17 @@
+Metric	LocationCode	N_flights	Median_PMA_minus_nonPMA	Mean_PMA_minus_nonPMA	Pairs_lower_after_PMA	Pairs_higher_after_PMA
+ARG_group_richness	S1	4	-102	-99.75	4	0
+ARG_group_richness	S2	4	-117	-110	4	0
+ARG_group_richness	S3	4	-64.5	-78	4	0
+ARG_group_richness	S4	4	-101.5	-108.5	4	0
+ARG_group_richness	S5	4	-137	-136	4	0
+ARG_group_richness	S6	4	-129.5	-127.5	4	0
+ARG_group_richness	S7	4	-80	-90	4	0
+ARG_group_richness	S8	4	-90	-96.5	4	0
+Microbial_species_richness	S1	4	-467	-484.75	4	0
+Microbial_species_richness	S2	4	-425.5	-445	4	0
+Microbial_species_richness	S3	4	-287	-478.25	4	0
+Microbial_species_richness	S4	4	-428.5	-474.5	4	0
+Microbial_species_richness	S5	4	-627.5	-631	4	0
+Microbial_species_richness	S6	4	-665	-659.5	4	0
+Microbial_species_richness	S7	4	-293	-400	4	0
+Microbial_species_richness	S8	4	-276.5	-422.5	4	0
